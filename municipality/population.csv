@@ -1,0 +1,2023 @@
+Year,Geography,Code,Name,Population
+2005,wijken,AA,Haarlemmerbuurt,7174
+2005,wijken,AB,Jordaan,18772
+2005,wijken,AC,Grachtengordel-West,7804
+2005,wijken,AD,Burgwallen-Nieuwe Zijde,3361
+2005,wijken,AE,Burgwallen-Oude Zijde,3684
+2005,wijken,AF,Nieuwmarkt/Lastage,8819
+2005,wijken,AG,Grachtengordel-Zuid,5123
+2005,wijken,AH,De Weteringschans,6855
+2005,wijken,AJ,Weesperbuurt/Plantage,7829
+2005,wijken,AK,Oostelijke Eilanden/Kadijken,11852
+2005,wijken,EA,Sloterdijk-West,115
+2005,wijken,EB,Spaarndammerbuurt/Zeeheldenbuurt,10459
+2005,wijken,EC,Houthavens,1049
+2005,wijken,ED,De Kolenkit,7350
+2005,wijken,EE,Landlust,18181
+2005,wijken,EF,Erasmuspark,5371
+2005,wijken,EG,Centrale Markt,2296
+2005,wijken,EH,Staatsliedenbuurt,12120
+2005,wijken,EJ,Frederik Hendrikbuurt,7625
+2005,wijken,EK,Van Galenbuurt,5656
+2005,wijken,EL,Geuzenbuurt,6294
+2005,wijken,EM,Hoofdweg e.o.,10220
+2005,wijken,EN,Chassébuurt,5841
+2005,wijken,EP,Bellamybuurt,5224
+2005,wijken,EQ,Da Costabuurt,4314
+2005,wijken,ER,Westindische Buurt,6461
+2005,wijken,ES,Van Lennepbuurt,6632
+2005,wijken,ET,Overtoomse Sluis,7157
+2005,wijken,EU,Helmersbuurt,6773
+2005,wijken,EV,Vondelparkbuurt,1740
+2005,wijken,FA,Sloterdijk Nieuw-West,69
+2005,wijken,FB,Geuzenveld,15685
+2005,wijken,FC,Slotermeer-West,10435
+2005,wijken,FD,Slotermeer-Noordoost,9010
+2005,wijken,FE,Slotermeer-Zuidoost,5756
+2005,wijken,FF,Lutkemeer/Ookmeer,875
+2005,wijken,FG,De Aker,14272
+2005,wijken,FH,De Punt,4850
+2005,wijken,FJ,Osdorp-Midden,9659
+2005,wijken,FK,Osdorp-Oost,14418
+2005,wijken,FL,Slotervaart-Noord,7612
+2005,wijken,FM,Overtoomse Veld,9617
+2005,wijken,FN,Slotervaart-Zuid,8445
+2005,wijken,FP,Westlandgracht,5490
+2005,wijken,FQ,Sloten/Nieuw-Sloten,14070
+2005,wijken,KA,Hoofddorppleinbuurt,10771
+2005,wijken,KB,Schinkelbuurt,3786
+2005,wijken,KC,Willemspark,5125
+2005,wijken,KD,Museumkwartier,12673
+2005,wijken,KE,Oude Pijp,13840
+2005,wijken,KF,Nieuwe Pijp,11448
+2005,wijken,KG,Zuid Pijp,8231
+2005,wijken,KH,Stadionbuurt,9726
+2005,wijken,KJ,Apollobuurt,8096
+2005,wijken,KK,Scheldebuurt,13237
+2005,wijken,KL,IJselbuurt,5166
+2005,wijken,KM,Rijnbuurt,8575
+2005,wijken,KN,Prinses Irenebuurt e.o.,1123
+2005,wijken,KP,Zuidas,74
+2005,wijken,KQ,Buitenveldert-West,11692
+2005,wijken,KR,Buitenveldert-Oost,7174
+2005,wijken,MA,Oostelijk Havengebied,16524
+2005,wijken,MB,Weesperzijde,4501
+2005,wijken,MC,Oosterparkbuurt,10631
+2005,wijken,MD,Transvaalbuurt,9664
+2005,wijken,ME,Dapperbuurt,8441
+2005,wijken,MF,Indische Buurt-West,12749
+2005,wijken,MG,Indische Buurt-Oost,10712
+2005,wijken,MH,Zeeburgereiland/Bovendiep,568
+2005,wijken,MJ,IJburg-West,1650
+2005,wijken,MK,IJburg-Oost,
+2005,wijken,ML,IJburg-Zuid,
+2005,wijken,MM,Frankendael,9423
+2005,wijken,MN,Middenmeer,11890
+2005,wijken,MP,Betondorp,3094
+2005,wijken,MQ,Omval/Overamstel,1035
+2005,wijken,NB,Noordelijke IJ-oevers-West,314
+2005,wijken,NC,Tuindorp Oostzaan,9305
+2005,wijken,ND,Kadoelen,2853
+2005,wijken,NE,Banne Buiksloot,13812
+2005,wijken,NF,Nieuwendammerdijk/Buiksloterdijk,1576
+2005,wijken,NG,Elzenhagen,1107
+2005,wijken,NH,Buikslotermeer,10694
+2005,wijken,NJ,Waterlandpleinbuurt,13423
+2005,wijken,NK,Volewijck,10166
+2005,wijken,NL,IJplein/Vogelbuurt,8247
+2005,wijken,NM,Tuindorp Buiksloot,1928
+2005,wijken,NN,Tuindorp Nieuwendam,3420
+2005,wijken,NP,Noordelijke IJ-oevers-Oost,149
+2005,wijken,NQ,Waterland,2085
+2005,wijken,SA,Driemond,1504
+2005,wijken,TA,Amstel III/Bullewijk,110
+2005,wijken,TB,Venserpolder,8063
+2005,wijken,TC,Amsterdamse Poort e.o.,6867
+2005,wijken,TD,H-buurt,7023
+2005,wijken,TE,Ganzenhoef e.o.,7416
+2005,wijken,TF,Geerdinkhof/Kantershof,4831
+2005,wijken,TG,Bijlmermuseum,7043
+2005,wijken,TH,K-buurt,4341
+2005,wijken,TJ,Holendrecht,9723
+2005,wijken,TK,Nellestein,2724
+2005,wijken,TL,Reigersbos,8643
+2005,wijken,TM,Gein,12262
+2006,wijken,AA,Haarlemmerbuurt,7127
+2006,wijken,AB,Jordaan,18882
+2006,wijken,AC,Grachtengordel-West,7862
+2006,wijken,AD,Burgwallen-Nieuwe Zijde,3471
+2006,wijken,AE,Burgwallen-Oude Zijde,3737
+2006,wijken,AF,Nieuwmarkt/Lastage,8812
+2006,wijken,AG,Grachtengordel-Zuid,5147
+2006,wijken,AH,De Weteringschans,6883
+2006,wijken,AJ,Weesperbuurt/Plantage,7704
+2006,wijken,AK,Oostelijke Eilanden/Kadijken,12379
+2006,wijken,EA,Sloterdijk-West,128
+2006,wijken,EB,Spaarndammerbuurt/Zeeheldenbuurt,10327
+2006,wijken,EC,Houthavens,1702
+2006,wijken,ED,De Kolenkit,6846
+2006,wijken,EE,Landlust,18326
+2006,wijken,EF,Erasmuspark,5177
+2006,wijken,EG,Centrale Markt,2363
+2006,wijken,EH,Staatsliedenbuurt,12094
+2006,wijken,EJ,Frederik Hendrikbuurt,7568
+2006,wijken,EK,Van Galenbuurt,5628
+2006,wijken,EL,Geuzenbuurt,6244
+2006,wijken,EM,Hoofdweg e.o.,10281
+2006,wijken,EN,Chassébuurt,5654
+2006,wijken,EP,Bellamybuurt,5181
+2006,wijken,EQ,Da Costabuurt,4261
+2006,wijken,ER,Westindische Buurt,6440
+2006,wijken,ES,Van Lennepbuurt,6536
+2006,wijken,ET,Overtoomse Sluis,7156
+2006,wijken,EU,Helmersbuurt,6839
+2006,wijken,EV,Vondelparkbuurt,1746
+2006,wijken,FA,Sloterdijk Nieuw-West,66
+2006,wijken,FB,Geuzenveld,15829
+2006,wijken,FC,Slotermeer-West,10485
+2006,wijken,FD,Slotermeer-Noordoost,9106
+2006,wijken,FE,Slotermeer-Zuidoost,5800
+2006,wijken,FF,Lutkemeer/Ookmeer,892
+2006,wijken,FG,De Aker,14364
+2006,wijken,FH,De Punt,4902
+2006,wijken,FJ,Osdorp-Midden,10295
+2006,wijken,FK,Osdorp-Oost,14380
+2006,wijken,FL,Slotervaart-Noord,7612
+2006,wijken,FM,Overtoomse Veld,9516
+2006,wijken,FN,Slotervaart-Zuid,8603
+2006,wijken,FP,Westlandgracht,5156
+2006,wijken,FQ,Sloten/Nieuw-Sloten,13972
+2006,wijken,KA,Hoofddorppleinbuurt,10742
+2006,wijken,KB,Schinkelbuurt,3719
+2006,wijken,KC,Willemspark,5149
+2006,wijken,KD,Museumkwartier,12653
+2006,wijken,KE,Oude Pijp,13616
+2006,wijken,KF,Nieuwe Pijp,11348
+2006,wijken,KG,Zuid Pijp,8221
+2006,wijken,KH,Stadionbuurt,10133
+2006,wijken,KJ,Apollobuurt,8013
+2006,wijken,KK,Scheldebuurt,13176
+2006,wijken,KL,IJselbuurt,5122
+2006,wijken,KM,Rijnbuurt,8504
+2006,wijken,KN,Prinses Irenebuurt e.o.,1155
+2006,wijken,KP,Zuidas,87
+2006,wijken,KQ,Buitenveldert-West,11646
+2006,wijken,KR,Buitenveldert-Oost,7195
+2006,wijken,MA,Oostelijk Havengebied,16649
+2006,wijken,MB,Weesperzijde,4414
+2006,wijken,MC,Oosterparkbuurt,10384
+2006,wijken,MD,Transvaalbuurt,9606
+2006,wijken,ME,Dapperbuurt,8427
+2006,wijken,MF,Indische Buurt-West,12643
+2006,wijken,MG,Indische Buurt-Oost,10600
+2006,wijken,MH,Zeeburgereiland/Bovendiep,426
+2006,wijken,MJ,IJburg-West,3183
+2006,wijken,MK,IJburg-Oost,
+2006,wijken,ML,IJburg-Zuid,
+2006,wijken,MM,Frankendael,9326
+2006,wijken,MN,Middenmeer,11972
+2006,wijken,MP,Betondorp,3098
+2006,wijken,MQ,Omval/Overamstel,1401
+2006,wijken,NB,Noordelijke IJ-oevers-West,617
+2006,wijken,NC,Tuindorp Oostzaan,9423
+2006,wijken,ND,Kadoelen,2895
+2006,wijken,NE,Banne Buiksloot,13790
+2006,wijken,NF,Nieuwendammerdijk/Buiksloterdijk,1579
+2006,wijken,NG,Elzenhagen,1100
+2006,wijken,NH,Buikslotermeer,10639
+2006,wijken,NJ,Waterlandpleinbuurt,13235
+2006,wijken,NK,Volewijck,9944
+2006,wijken,NL,IJplein/Vogelbuurt,8136
+2006,wijken,NM,Tuindorp Buiksloot,1905
+2006,wijken,NN,Tuindorp Nieuwendam,3428
+2006,wijken,NP,Noordelijke IJ-oevers-Oost,145
+2006,wijken,NQ,Waterland,2076
+2006,wijken,SA,Driemond,1517
+2006,wijken,TA,Amstel III/Bullewijk,117
+2006,wijken,TB,Venserpolder,8037
+2006,wijken,TC,Amsterdamse Poort e.o.,6207
+2006,wijken,TD,H-buurt,7069
+2006,wijken,TE,Ganzenhoef e.o.,6721
+2006,wijken,TF,Geerdinkhof/Kantershof,4956
+2006,wijken,TG,Bijlmermuseum,7165
+2006,wijken,TH,K-buurt,3897
+2006,wijken,TJ,Holendrecht,9756
+2006,wijken,TK,Nellestein,2760
+2006,wijken,TL,Reigersbos,8517
+2006,wijken,TM,Gein,12188
+2007,wijken,AA,Haarlemmerbuurt,6985
+2007,wijken,AB,Jordaan,18847
+2007,wijken,AC,Grachtengordel-West,7641
+2007,wijken,AD,Burgwallen-Nieuwe Zijde,3505
+2007,wijken,AE,Burgwallen-Oude Zijde,3733
+2007,wijken,AF,Nieuwmarkt/Lastage,8547
+2007,wijken,AG,Grachtengordel-Zuid,5075
+2007,wijken,AH,De Weteringschans,6916
+2007,wijken,AJ,Weesperbuurt/Plantage,7456
+2007,wijken,AK,Oostelijke Eilanden/Kadijken,12113
+2007,wijken,EA,Sloterdijk-West,139
+2007,wijken,EB,Spaarndammerbuurt/Zeeheldenbuurt,10185
+2007,wijken,EC,Houthavens,1681
+2007,wijken,ED,De Kolenkit,7021
+2007,wijken,EE,Landlust,18099
+2007,wijken,EF,Erasmuspark,5074
+2007,wijken,EG,Centrale Markt,2442
+2007,wijken,EH,Staatsliedenbuurt,12098
+2007,wijken,EJ,Frederik Hendrikbuurt,7652
+2007,wijken,EK,Van Galenbuurt,5499
+2007,wijken,EL,Geuzenbuurt,6274
+2007,wijken,EM,Hoofdweg e.o.,10072
+2007,wijken,EN,Chassébuurt,5587
+2007,wijken,EP,Bellamybuurt,5060
+2007,wijken,EQ,Da Costabuurt,4240
+2007,wijken,ER,Westindische Buurt,6415
+2007,wijken,ES,Van Lennepbuurt,6615
+2007,wijken,ET,Overtoomse Sluis,7093
+2007,wijken,EU,Helmersbuurt,6814
+2007,wijken,EV,Vondelparkbuurt,1707
+2007,wijken,FA,Sloterdijk Nieuw-West,78
+2007,wijken,FB,Geuzenveld,16119
+2007,wijken,FC,Slotermeer-West,10301
+2007,wijken,FD,Slotermeer-Noordoost,9137
+2007,wijken,FE,Slotermeer-Zuidoost,5776
+2007,wijken,FF,Lutkemeer/Ookmeer,894
+2007,wijken,FG,De Aker,14373
+2007,wijken,FH,De Punt,4967
+2007,wijken,FJ,Osdorp-Midden,10590
+2007,wijken,FK,Osdorp-Oost,14020
+2007,wijken,FL,Slotervaart-Noord,7650
+2007,wijken,FM,Overtoomse Veld,9693
+2007,wijken,FN,Slotervaart-Zuid,8757
+2007,wijken,FP,Westlandgracht,4505
+2007,wijken,FQ,Sloten/Nieuw-Sloten,13947
+2007,wijken,KA,Hoofddorppleinbuurt,10648
+2007,wijken,KB,Schinkelbuurt,3728
+2007,wijken,KC,Willemspark,5161
+2007,wijken,KD,Museumkwartier,12631
+2007,wijken,KE,Oude Pijp,13659
+2007,wijken,KF,Nieuwe Pijp,11352
+2007,wijken,KG,Zuid Pijp,8181
+2007,wijken,KH,Stadionbuurt,10223
+2007,wijken,KJ,Apollobuurt,8050
+2007,wijken,KK,Scheldebuurt,13099
+2007,wijken,KL,IJselbuurt,5026
+2007,wijken,KM,Rijnbuurt,8567
+2007,wijken,KN,Prinses Irenebuurt e.o.,1185
+2007,wijken,KP,Zuidas,83
+2007,wijken,KQ,Buitenveldert-West,11717
+2007,wijken,KR,Buitenveldert-Oost,7107
+2007,wijken,MA,Oostelijk Havengebied,17086
+2007,wijken,MB,Weesperzijde,4346
+2007,wijken,MC,Oosterparkbuurt,10401
+2007,wijken,MD,Transvaalbuurt,9413
+2007,wijken,ME,Dapperbuurt,8252
+2007,wijken,MF,Indische Buurt-West,12448
+2007,wijken,MG,Indische Buurt-Oost,10620
+2007,wijken,MH,Zeeburgereiland/Bovendiep,455
+2007,wijken,MJ,IJburg-West,6091
+2007,wijken,MK,IJburg-Oost,
+2007,wijken,ML,IJburg-Zuid,
+2007,wijken,MM,Frankendael,9242
+2007,wijken,MN,Middenmeer,11979
+2007,wijken,MP,Betondorp,3053
+2007,wijken,MQ,Omval/Overamstel,2112
+2007,wijken,NB,Noordelijke IJ-oevers-West,611
+2007,wijken,NC,Tuindorp Oostzaan,9489
+2007,wijken,ND,Kadoelen,2905
+2007,wijken,NE,Banne Buiksloot,13693
+2007,wijken,NF,Nieuwendammerdijk/Buiksloterdijk,1590
+2007,wijken,NG,Elzenhagen,1104
+2007,wijken,NH,Buikslotermeer,10587
+2007,wijken,NJ,Waterlandpleinbuurt,13055
+2007,wijken,NK,Volewijck,9732
+2007,wijken,NL,IJplein/Vogelbuurt,8331
+2007,wijken,NM,Tuindorp Buiksloot,1884
+2007,wijken,NN,Tuindorp Nieuwendam,3438
+2007,wijken,NP,Noordelijke IJ-oevers-Oost,136
+2007,wijken,NQ,Waterland,2129
+2007,wijken,SA,Driemond,1485
+2007,wijken,TA,Amstel III/Bullewijk,113
+2007,wijken,TB,Venserpolder,8146
+2007,wijken,TC,Amsterdamse Poort e.o.,5212
+2007,wijken,TD,H-buurt,7048
+2007,wijken,TE,Ganzenhoef e.o.,6858
+2007,wijken,TF,Geerdinkhof/Kantershof,4962
+2007,wijken,TG,Bijlmermuseum,7135
+2007,wijken,TH,K-buurt,4015
+2007,wijken,TJ,Holendrecht,9737
+2007,wijken,TK,Nellestein,2716
+2007,wijken,TL,Reigersbos,8501
+2007,wijken,TM,Gein,11989
+2008,wijken,AA,Haarlemmerbuurt,7191
+2008,wijken,AB,Jordaan,18685
+2008,wijken,AC,Grachtengordel-West,7409
+2008,wijken,AD,Burgwallen-Nieuwe Zijde,3726
+2008,wijken,AE,Burgwallen-Oude Zijde,3754
+2008,wijken,AF,Nieuwmarkt/Lastage,8667
+2008,wijken,AG,Grachtengordel-Zuid,5012
+2008,wijken,AH,De Weteringschans,6880
+2008,wijken,AJ,Weesperbuurt/Plantage,7501
+2008,wijken,AK,Oostelijke Eilanden/Kadijken,12492
+2008,wijken,EA,Sloterdijk-West,135
+2008,wijken,EB,Spaarndammerbuurt/Zeeheldenbuurt,10002
+2008,wijken,EC,Houthavens,1817
+2008,wijken,ED,De Kolenkit,7045
+2008,wijken,EE,Landlust,17830
+2008,wijken,EF,Erasmuspark,5068
+2008,wijken,EG,Centrale Markt,2616
+2008,wijken,EH,Staatsliedenbuurt,12094
+2008,wijken,EJ,Frederik Hendrikbuurt,7791
+2008,wijken,EK,Van Galenbuurt,5414
+2008,wijken,EL,Geuzenbuurt,6304
+2008,wijken,EM,Hoofdweg e.o.,10039
+2008,wijken,EN,Chassébuurt,5657
+2008,wijken,EP,Bellamybuurt,5028
+2008,wijken,EQ,Da Costabuurt,4349
+2008,wijken,ER,Westindische Buurt,6353
+2008,wijken,ES,Van Lennepbuurt,6630
+2008,wijken,ET,Overtoomse Sluis,7007
+2008,wijken,EU,Helmersbuurt,6788
+2008,wijken,EV,Vondelparkbuurt,1682
+2008,wijken,FA,Sloterdijk Nieuw-West,74
+2008,wijken,FB,Geuzenveld,16448
+2008,wijken,FC,Slotermeer-West,9846
+2008,wijken,FD,Slotermeer-Noordoost,9155
+2008,wijken,FE,Slotermeer-Zuidoost,5861
+2008,wijken,FF,Lutkemeer/Ookmeer,878
+2008,wijken,FG,De Aker,14359
+2008,wijken,FH,De Punt,4971
+2008,wijken,FJ,Osdorp-Midden,11485
+2008,wijken,FK,Osdorp-Oost,14141
+2008,wijken,FL,Slotervaart-Noord,7591
+2008,wijken,FM,Overtoomse Veld,9808
+2008,wijken,FN,Slotervaart-Zuid,8895
+2008,wijken,FP,Westlandgracht,4581
+2008,wijken,FQ,Sloten/Nieuw-Sloten,13955
+2008,wijken,KA,Hoofddorppleinbuurt,10663
+2008,wijken,KB,Schinkelbuurt,3717
+2008,wijken,KC,Willemspark,5220
+2008,wijken,KD,Museumkwartier,12406
+2008,wijken,KE,Oude Pijp,13712
+2008,wijken,KF,Nieuwe Pijp,11295
+2008,wijken,KG,Zuid Pijp,8137
+2008,wijken,KH,Stadionbuurt,10099
+2008,wijken,KJ,Apollobuurt,8070
+2008,wijken,KK,Scheldebuurt,13300
+2008,wijken,KL,IJselbuurt,5085
+2008,wijken,KM,Rijnbuurt,8568
+2008,wijken,KN,Prinses Irenebuurt e.o.,1153
+2008,wijken,KP,Zuidas,96
+2008,wijken,KQ,Buitenveldert-West,11822
+2008,wijken,KR,Buitenveldert-Oost,7111
+2008,wijken,MA,Oostelijk Havengebied,17662
+2008,wijken,MB,Weesperzijde,4550
+2008,wijken,MC,Oosterparkbuurt,10215
+2008,wijken,MD,Transvaalbuurt,9329
+2008,wijken,ME,Dapperbuurt,8111
+2008,wijken,MF,Indische Buurt-West,11913
+2008,wijken,MG,Indische Buurt-Oost,10368
+2008,wijken,MH,Zeeburgereiland/Bovendiep,464
+2008,wijken,MJ,IJburg-West,7781
+2008,wijken,MK,IJburg-Oost,
+2008,wijken,ML,IJburg-Zuid,485
+2008,wijken,MM,Frankendael,9528
+2008,wijken,MN,Middenmeer,12164
+2008,wijken,MP,Betondorp,3032
+2008,wijken,MQ,Omval/Overamstel,2115
+2008,wijken,NB,Noordelijke IJ-oevers-West,609
+2008,wijken,NC,Tuindorp Oostzaan,9893
+2008,wijken,ND,Kadoelen,2890
+2008,wijken,NE,Banne Buiksloot,13143
+2008,wijken,NF,Nieuwendammerdijk/Buiksloterdijk,1588
+2008,wijken,NG,Elzenhagen,1093
+2008,wijken,NH,Buikslotermeer,10480
+2008,wijken,NJ,Waterlandpleinbuurt,13023
+2008,wijken,NK,Volewijck,9583
+2008,wijken,NL,IJplein/Vogelbuurt,8366
+2008,wijken,NM,Tuindorp Buiksloot,1868
+2008,wijken,NN,Tuindorp Nieuwendam,3444
+2008,wijken,NP,Noordelijke IJ-oevers-Oost,126
+2008,wijken,NQ,Waterland,2126
+2008,wijken,SA,Driemond,1487
+2008,wijken,TA,Amstel III/Bullewijk,97
+2008,wijken,TB,Venserpolder,8095
+2008,wijken,TC,Amsterdamse Poort e.o.,5316
+2008,wijken,TD,H-buurt,7029
+2008,wijken,TE,Ganzenhoef e.o.,6806
+2008,wijken,TF,Geerdinkhof/Kantershof,4935
+2008,wijken,TG,Bijlmermuseum,7601
+2008,wijken,TH,K-buurt,4570
+2008,wijken,TJ,Holendrecht,9806
+2008,wijken,TK,Nellestein,2765
+2008,wijken,TL,Reigersbos,8590
+2008,wijken,TM,Gein,11825
+2009,wijken,AA,Haarlemmerbuurt,7918
+2009,wijken,AB,Jordaan,18660
+2009,wijken,AC,Grachtengordel-West,6316
+2009,wijken,AD,Burgwallen-Nieuwe Zijde,3754
+2009,wijken,AE,Burgwallen-Oude Zijde,3783
+2009,wijken,AF,Nieuwmarkt/Lastage,8783
+2009,wijken,AG,Grachtengordel-Zuid,5056
+2009,wijken,AH,De Weteringschans,6861
+2009,wijken,AJ,Weesperbuurt/Plantage,7618
+2009,wijken,AK,Oostelijke Eilanden/Kadijken,12554
+2009,wijken,EA,Sloterdijk-West,184
+2009,wijken,EB,Spaarndammerbuurt/Zeeheldenbuurt,9917
+2009,wijken,EC,Houthavens,1878
+2009,wijken,ED,De Kolenkit,7219
+2009,wijken,EE,Landlust,17514
+2009,wijken,EF,Erasmuspark,5531
+2009,wijken,EG,Centrale Markt,2614
+2009,wijken,EH,Staatsliedenbuurt,11875
+2009,wijken,EJ,Frederik Hendrikbuurt,7864
+2009,wijken,EK,Van Galenbuurt,5460
+2009,wijken,EL,Geuzenbuurt,6404
+2009,wijken,EM,Hoofdweg e.o.,9988
+2009,wijken,EN,Chassébuurt,5410
+2009,wijken,EP,Bellamybuurt,5044
+2009,wijken,EQ,Da Costabuurt,4350
+2009,wijken,ER,Westindische Buurt,6374
+2009,wijken,ES,Van Lennepbuurt,6709
+2009,wijken,ET,Overtoomse Sluis,7058
+2009,wijken,EU,Helmersbuurt,6903
+2009,wijken,EV,Vondelparkbuurt,1696
+2009,wijken,FA,Sloterdijk Nieuw-West,73
+2009,wijken,FB,Geuzenveld,15578
+2009,wijken,FC,Slotermeer-West,9935
+2009,wijken,FD,Slotermeer-Noordoost,9243
+2009,wijken,FE,Slotermeer-Zuidoost,5912
+2009,wijken,FF,Lutkemeer/Ookmeer,883
+2009,wijken,FG,De Aker,14320
+2009,wijken,FH,De Punt,5080
+2009,wijken,FJ,Osdorp-Midden,12136
+2009,wijken,FK,Osdorp-Oost,14444
+2009,wijken,FL,Slotervaart-Noord,7640
+2009,wijken,FM,Overtoomse Veld,9890
+2009,wijken,FN,Slotervaart-Zuid,9098
+2009,wijken,FP,Westlandgracht,4879
+2009,wijken,FQ,Sloten/Nieuw-Sloten,13934
+2009,wijken,KA,Hoofddorppleinbuurt,10657
+2009,wijken,KB,Schinkelbuurt,3686
+2009,wijken,KC,Willemspark,5197
+2009,wijken,KD,Museumkwartier,12387
+2009,wijken,KE,Oude Pijp,13665
+2009,wijken,KF,Nieuwe Pijp,11419
+2009,wijken,KG,Zuid Pijp,8036
+2009,wijken,KH,Stadionbuurt,11796
+2009,wijken,KJ,Apollobuurt,8047
+2009,wijken,KK,Scheldebuurt,13384
+2009,wijken,KL,IJselbuurt,5051
+2009,wijken,KM,Rijnbuurt,8505
+2009,wijken,KN,Prinses Irenebuurt e.o.,1177
+2009,wijken,KP,Zuidas,198
+2009,wijken,KQ,Buitenveldert-West,11833
+2009,wijken,KR,Buitenveldert-Oost,7115
+2009,wijken,MA,Oostelijk Havengebied,17555
+2009,wijken,MB,Weesperzijde,4606
+2009,wijken,MC,Oosterparkbuurt,10215
+2009,wijken,MD,Transvaalbuurt,9218
+2009,wijken,ME,Dapperbuurt,7959
+2009,wijken,MF,Indische Buurt-West,11642
+2009,wijken,MG,Indische Buurt-Oost,10246
+2009,wijken,MH,Zeeburgereiland/Bovendiep,458
+2009,wijken,MJ,IJburg-West,10339
+2009,wijken,MK,IJburg-Oost,
+2009,wijken,ML,IJburg-Zuid,2442
+2009,wijken,MM,Frankendael,9626
+2009,wijken,MN,Middenmeer,13035
+2009,wijken,MP,Betondorp,3076
+2009,wijken,MQ,Omval/Overamstel,2028
+2009,wijken,NB,Noordelijke IJ-oevers-West,610
+2009,wijken,NC,Tuindorp Oostzaan,10336
+2009,wijken,ND,Kadoelen,2892
+2009,wijken,NE,Banne Buiksloot,12732
+2009,wijken,NF,Nieuwendammerdijk/Buiksloterdijk,1599
+2009,wijken,NG,Elzenhagen,1158
+2009,wijken,NH,Buikslotermeer,10371
+2009,wijken,NJ,Waterlandpleinbuurt,12919
+2009,wijken,NK,Volewijck,9479
+2009,wijken,NL,IJplein/Vogelbuurt,8366
+2009,wijken,NM,Tuindorp Buiksloot,1853
+2009,wijken,NN,Tuindorp Nieuwendam,3419
+2009,wijken,NP,Noordelijke IJ-oevers-Oost,122
+2009,wijken,NQ,Waterland,2121
+2009,wijken,SA,Driemond,1509
+2009,wijken,TA,Amstel III/Bullewijk,153
+2009,wijken,TB,Venserpolder,8105
+2009,wijken,TC,Amsterdamse Poort e.o.,5489
+2009,wijken,TD,H-buurt,7072
+2009,wijken,TE,Ganzenhoef e.o.,6785
+2009,wijken,TF,Geerdinkhof/Kantershof,5133
+2009,wijken,TG,Bijlmermuseum,8365
+2009,wijken,TH,K-buurt,4870
+2009,wijken,TJ,Holendrecht,9783
+2009,wijken,TK,Nellestein,2757
+2009,wijken,TL,Reigersbos,8564
+2009,wijken,TM,Gein,11905
+2010,wijken,AA,Haarlemmerbuurt,8704
+2010,wijken,AB,Jordaan,18927
+2010,wijken,AC,Grachtengordel-West,6230
+2010,wijken,AD,Burgwallen-Nieuwe Zijde,4146
+2010,wijken,AE,Burgwallen-Oude Zijde,3900
+2010,wijken,AF,Nieuwmarkt/Lastage,8808
+2010,wijken,AG,Grachtengordel-Zuid,5125
+2010,wijken,AH,De Weteringschans,6973
+2010,wijken,AJ,Weesperbuurt/Plantage,7542
+2010,wijken,AK,Oostelijke Eilanden/Kadijken,12355
+2010,wijken,EA,Sloterdijk-West,186
+2010,wijken,EB,Spaarndammerbuurt/Zeeheldenbuurt,9968
+2010,wijken,EC,Houthavens,1749
+2010,wijken,ED,De Kolenkit,7313
+2010,wijken,EE,Landlust,17966
+2010,wijken,EF,Erasmuspark,5500
+2010,wijken,EG,Centrale Markt,2585
+2010,wijken,EH,Staatsliedenbuurt,11921
+2010,wijken,EJ,Frederik Hendrikbuurt,7834
+2010,wijken,EK,Van Galenbuurt,5502
+2010,wijken,EL,Geuzenbuurt,6487
+2010,wijken,EM,Hoofdweg e.o.,10026
+2010,wijken,EN,Chassébuurt,5462
+2010,wijken,EP,Bellamybuurt,5140
+2010,wijken,EQ,Da Costabuurt,4395
+2010,wijken,ER,Westindische Buurt,6393
+2010,wijken,ES,Van Lennepbuurt,6775
+2010,wijken,ET,Overtoomse Sluis,7243
+2010,wijken,EU,Helmersbuurt,7120
+2010,wijken,EV,Vondelparkbuurt,1730
+2010,wijken,FA,Sloterdijk Nieuw-West,69
+2010,wijken,FB,Geuzenveld,15157
+2010,wijken,FC,Slotermeer-West,10057
+2010,wijken,FD,Slotermeer-Noordoost,9177
+2010,wijken,FE,Slotermeer-Zuidoost,6012
+2010,wijken,FF,Lutkemeer/Ookmeer,880
+2010,wijken,FG,De Aker,14341
+2010,wijken,FH,De Punt,5113
+2010,wijken,FJ,Osdorp-Midden,13442
+2010,wijken,FK,Osdorp-Oost,15054
+2010,wijken,FL,Slotervaart-Noord,7584
+2010,wijken,FM,Overtoomse Veld,10475
+2010,wijken,FN,Slotervaart-Zuid,8901
+2010,wijken,FP,Westlandgracht,5154
+2010,wijken,FQ,Sloten/Nieuw-Sloten,13839
+2010,wijken,KA,Hoofddorppleinbuurt,10846
+2010,wijken,KB,Schinkelbuurt,3727
+2010,wijken,KC,Willemspark,5233
+2010,wijken,KD,Museumkwartier,12560
+2010,wijken,KE,Oude Pijp,13771
+2010,wijken,KF,Nieuwe Pijp,11539
+2010,wijken,KG,Zuid Pijp,7976
+2010,wijken,KH,Stadionbuurt,12058
+2010,wijken,KJ,Apollobuurt,8167
+2010,wijken,KK,Scheldebuurt,13720
+2010,wijken,KL,IJselbuurt,5041
+2010,wijken,KM,Rijnbuurt,8635
+2010,wijken,KN,Prinses Irenebuurt e.o.,1185
+2010,wijken,KP,Zuidas,226
+2010,wijken,KQ,Buitenveldert-West,12062
+2010,wijken,KR,Buitenveldert-Oost,7062
+2010,wijken,MA,Oostelijk Havengebied,17670
+2010,wijken,MB,Weesperzijde,4648
+2010,wijken,MC,Oosterparkbuurt,10253
+2010,wijken,MD,Transvaalbuurt,9301
+2010,wijken,ME,Dapperbuurt,7975
+2010,wijken,MF,Indische Buurt-West,12061
+2010,wijken,MG,Indische Buurt-Oost,10425
+2010,wijken,MH,Zeeburgereiland/Bovendiep,468
+2010,wijken,MJ,IJburg-West,11842
+2010,wijken,MK,IJburg-Oost,
+2010,wijken,ML,IJburg-Zuid,3660
+2010,wijken,MM,Frankendael,9695
+2010,wijken,MN,Middenmeer,13526
+2010,wijken,MP,Betondorp,3074
+2010,wijken,MQ,Omval/Overamstel,2017
+2010,wijken,NB,Noordelijke IJ-oevers-West,651
+2010,wijken,NC,Tuindorp Oostzaan,10373
+2010,wijken,ND,Kadoelen,2907
+2010,wijken,NE,Banne Buiksloot,12518
+2010,wijken,NF,Nieuwendammerdijk/Buiksloterdijk,1687
+2010,wijken,NG,Elzenhagen,1282
+2010,wijken,NH,Buikslotermeer,10662
+2010,wijken,NJ,Waterlandpleinbuurt,12216
+2010,wijken,NK,Volewijck,9395
+2010,wijken,NL,IJplein/Vogelbuurt,8310
+2010,wijken,NM,Tuindorp Buiksloot,1904
+2010,wijken,NN,Tuindorp Nieuwendam,3425
+2010,wijken,NP,Noordelijke IJ-oevers-Oost,136
+2010,wijken,NQ,Waterland,2142
+2010,wijken,SA,Driemond,1509
+2010,wijken,TA,Amstel III/Bullewijk,178
+2010,wijken,TB,Venserpolder,8188
+2010,wijken,TC,Amsterdamse Poort e.o.,5433
+2010,wijken,TD,H-buurt,7209
+2010,wijken,TE,Ganzenhoef e.o.,6908
+2010,wijken,TF,Geerdinkhof/Kantershof,5180
+2010,wijken,TG,Bijlmermuseum,8736
+2010,wijken,TH,K-buurt,5029
+2010,wijken,TJ,Holendrecht,9802
+2010,wijken,TK,Nellestein,2839
+2010,wijken,TL,Reigersbos,8619
+2010,wijken,TM,Gein,11878
+2011,wijken,AA,Haarlemmerbuurt,8925
+2011,wijken,AB,Jordaan,18979
+2011,wijken,AC,Grachtengordel-West,6337
+2011,wijken,AD,Burgwallen-Nieuwe Zijde,4147
+2011,wijken,AE,Burgwallen-Oude Zijde,3928
+2011,wijken,AF,Nieuwmarkt/Lastage,9008
+2011,wijken,AG,Grachtengordel-Zuid,5293
+2011,wijken,AH,De Weteringschans,7101
+2011,wijken,AJ,Weesperbuurt/Plantage,7752
+2011,wijken,AK,Oostelijke Eilanden/Kadijken,12557
+2011,wijken,BA,Havens-West,219
+2011,wijken,BB,Coenhaven/Minervahaven,30
+2011,wijken,EA,Sloterdijk-West,198
+2011,wijken,EB,Spaarndammerbuurt/Zeeheldenbuurt,10320
+2011,wijken,EC,Houthavens,1943
+2011,wijken,ED,De Kolenkit,7215
+2011,wijken,EE,Landlust,18300
+2011,wijken,EF,Erasmuspark,5658
+2011,wijken,EG,Centrale Markt,2595
+2011,wijken,EH,Staatsliedenbuurt,12094
+2011,wijken,EJ,Frederik Hendrikbuurt,7923
+2011,wijken,EK,Van Galenbuurt,5542
+2011,wijken,EL,Geuzenbuurt,6603
+2011,wijken,EM,Hoofdweg e.o.,10058
+2011,wijken,EN,Chassébuurt,5550
+2011,wijken,EP,Bellamybuurt,5172
+2011,wijken,EQ,Da Costabuurt,4429
+2011,wijken,ER,Westindische Buurt,6464
+2011,wijken,ES,Van Lennepbuurt,6824
+2011,wijken,ET,Overtoomse Sluis,7479
+2011,wijken,EU,Helmersbuurt,7235
+2011,wijken,EV,Vondelparkbuurt,1717
+2011,wijken,FA,Sloterdijk Nieuw-West,102
+2011,wijken,FB,Geuzenveld,15552
+2011,wijken,FC,Slotermeer-West,10424
+2011,wijken,FD,Slotermeer-Noordoost,9302
+2011,wijken,FE,Slotermeer-Zuidoost,6101
+2011,wijken,FF,Lutkemeer/Ookmeer,882
+2011,wijken,FG,De Aker,14249
+2011,wijken,FH,De Punt,5090
+2011,wijken,FJ,Osdorp-Midden,14012
+2011,wijken,FK,Osdorp-Oost,15392
+2011,wijken,FL,Slotervaart-Noord,7726
+2011,wijken,FM,Overtoomse Veld,10446
+2011,wijken,FN,Slotervaart-Zuid,9073
+2011,wijken,FP,Westlandgracht,5846
+2011,wijken,FQ,Sloten/Nieuw-Sloten,13989
+2011,wijken,KA,Hoofddorppleinbuurt,10936
+2011,wijken,KB,Schinkelbuurt,3761
+2011,wijken,KC,Willemspark,5333
+2011,wijken,KD,Museumkwartier,12612
+2011,wijken,KE,Oude Pijp,14102
+2011,wijken,KF,Nieuwe Pijp,11674
+2011,wijken,KG,Zuid Pijp,8032
+2011,wijken,KH,Stadionbuurt,12487
+2011,wijken,KJ,Apollobuurt,8306
+2011,wijken,KK,Scheldebuurt,13873
+2011,wijken,KL,IJselbuurt,5040
+2011,wijken,KM,Rijnbuurt,8820
+2011,wijken,KN,Prinses Irenebuurt e.o.,1212
+2011,wijken,KP,Zuidas,507
+2011,wijken,KQ,Buitenveldert-West,12142
+2011,wijken,KR,Buitenveldert-Oost,7024
+2011,wijken,MA,Oostelijk Havengebied,17984
+2011,wijken,MB,Weesperzijde,4739
+2011,wijken,MC,Oosterparkbuurt,10257
+2011,wijken,MD,Transvaalbuurt,9248
+2011,wijken,ME,Dapperbuurt,8206
+2011,wijken,MF,Indische Buurt-West,12407
+2011,wijken,MG,Indische Buurt-Oost,10399
+2011,wijken,MH,Zeeburgereiland/Bovendiep,756
+2011,wijken,MJ,IJburg-West,12667
+2011,wijken,MK,IJburg-Oost,
+2011,wijken,ML,IJburg-Zuid,4701
+2011,wijken,MM,Frankendael,9948
+2011,wijken,MN,Middenmeer,13773
+2011,wijken,MP,Betondorp,3107
+2011,wijken,MQ,Omval/Overamstel,2042
+2011,wijken,NA,Oostzanerwerf,8483
+2011,wijken,NB,Noordelijke IJ-oevers-West,1012
+2011,wijken,NC,Tuindorp Oostzaan,10345
+2011,wijken,ND,Kadoelen,2859
+2011,wijken,NE,Banne Buiksloot,12661
+2011,wijken,NF,Nieuwendammerdijk/Buiksloterdijk,1696
+2011,wijken,NG,Elzenhagen,1405
+2011,wijken,NH,Buikslotermeer,10841
+2011,wijken,NJ,Waterlandpleinbuurt,12177
+2011,wijken,NK,Volewijck,9403
+2011,wijken,NL,IJplein/Vogelbuurt,8206
+2011,wijken,NM,Tuindorp Buiksloot,1881
+2011,wijken,NN,Tuindorp Nieuwendam,3429
+2011,wijken,NP,Noordelijke IJ-oevers-Oost,123
+2011,wijken,NQ,Waterland,2154
+2011,wijken,SA,Driemond,1543
+2011,wijken,TA,Amstel III/Bullewijk,187
+2011,wijken,TB,Venserpolder,8328
+2011,wijken,TC,Amsterdamse Poort e.o.,5653
+2011,wijken,TD,H-buurt,7245
+2011,wijken,TE,Ganzenhoef e.o.,7084
+2011,wijken,TF,Geerdinkhof/Kantershof,6988
+2011,wijken,TG,Bijlmermuseum,6435
+2011,wijken,TH,K-buurt,5328
+2011,wijken,TJ,Holendrecht,9887
+2011,wijken,TK,Nellestein,2873
+2011,wijken,TL,Reigersbos,8537
+2011,wijken,TM,Gein,11920
+2012,wijken,AA,Haarlemmerbuurt,9046
+2012,wijken,AB,Jordaan,19090
+2012,wijken,AC,Grachtengordel-West,6403
+2012,wijken,AD,Burgwallen-Nieuwe Zijde,4047
+2012,wijken,AE,Burgwallen-Oude Zijde,4013
+2012,wijken,AF,Nieuwmarkt/Lastage,9021
+2012,wijken,AG,Grachtengordel-Zuid,5264
+2012,wijken,AH,De Weteringschans,7146
+2012,wijken,AJ,Weesperbuurt/Plantage,7640
+2012,wijken,AK,Oostelijke Eilanden/Kadijken,12868
+2012,wijken,BA,Havens-West,221
+2012,wijken,BB,Coenhaven/Minervahaven,30
+2012,wijken,EA,Sloterdijk-West,209
+2012,wijken,EB,Spaarndammerbuurt/Zeeheldenbuurt,10585
+2012,wijken,EC,Houthavens,1909
+2012,wijken,ED,De Kolenkit,7952
+2012,wijken,EE,Landlust,18098
+2012,wijken,EF,Erasmuspark,5710
+2012,wijken,EG,Centrale Markt,2587
+2012,wijken,EH,Staatsliedenbuurt,12400
+2012,wijken,EJ,Frederik Hendrikbuurt,7879
+2012,wijken,EK,Van Galenbuurt,5583
+2012,wijken,EL,Geuzenbuurt,6649
+2012,wijken,EM,Hoofdweg e.o.,10149
+2012,wijken,EN,Chassébuurt,5650
+2012,wijken,EP,Bellamybuurt,5399
+2012,wijken,EQ,Da Costabuurt,4448
+2012,wijken,ER,Westindische Buurt,6404
+2012,wijken,ES,Van Lennepbuurt,6937
+2012,wijken,ET,Overtoomse Sluis,7547
+2012,wijken,EU,Helmersbuurt,7337
+2012,wijken,EV,Vondelparkbuurt,1752
+2012,wijken,FA,Sloterdijk Nieuw-West,103
+2012,wijken,FB,Geuzenveld,16347
+2012,wijken,FC,Slotermeer-West,10390
+2012,wijken,FD,Slotermeer-Noordoost,9301
+2012,wijken,FE,Slotermeer-Zuidoost,6089
+2012,wijken,FF,Lutkemeer/Ookmeer,873
+2012,wijken,FG,De Aker,14207
+2012,wijken,FH,De Punt,5099
+2012,wijken,FJ,Osdorp-Midden,14573
+2012,wijken,FK,Osdorp-Oost,15536
+2012,wijken,FL,Slotervaart-Noord,7800
+2012,wijken,FM,Overtoomse Veld,10302
+2012,wijken,FN,Slotervaart-Zuid,8992
+2012,wijken,FP,Westlandgracht,6349
+2012,wijken,FQ,Sloten/Nieuw-Sloten,14024
+2012,wijken,KA,Hoofddorppleinbuurt,11036
+2012,wijken,KB,Schinkelbuurt,3732
+2012,wijken,KC,Willemspark,5396
+2012,wijken,KD,Museumkwartier,12677
+2012,wijken,KE,Oude Pijp,14425
+2012,wijken,KF,Nieuwe Pijp,11666
+2012,wijken,KG,Zuid Pijp,8047
+2012,wijken,KH,Stadionbuurt,12513
+2012,wijken,KJ,Apollobuurt,8452
+2012,wijken,KK,Scheldebuurt,14025
+2012,wijken,KL,IJselbuurt,5147
+2012,wijken,KM,Rijnbuurt,8889
+2012,wijken,KN,Prinses Irenebuurt e.o.,1212
+2012,wijken,KP,Zuidas,699
+2012,wijken,KQ,Buitenveldert-West,12455
+2012,wijken,KR,Buitenveldert-Oost,7232
+2012,wijken,MA,Oostelijk Havengebied,17897
+2012,wijken,MB,Weesperzijde,4708
+2012,wijken,MC,Oosterparkbuurt,10273
+2012,wijken,MD,Transvaalbuurt,9190
+2012,wijken,ME,Dapperbuurt,8228
+2012,wijken,MF,Indische Buurt-West,12650
+2012,wijken,MG,Indische Buurt-Oost,10258
+2012,wijken,MH,Zeeburgereiland/Bovendiep,802
+2012,wijken,MJ,IJburg-West,13657
+2012,wijken,MK,IJburg-Oost,
+2012,wijken,ML,IJburg-Zuid,5474
+2012,wijken,MM,Frankendael,9999
+2012,wijken,MN,Middenmeer,13944
+2012,wijken,MP,Betondorp,3089
+2012,wijken,MQ,Omval/Overamstel,2106
+2012,wijken,NA,Oostzanerwerf,8635
+2012,wijken,NB,Noordelijke IJ-oevers-West,1113
+2012,wijken,NC,Tuindorp Oostzaan,10313
+2012,wijken,ND,Kadoelen,2830
+2012,wijken,NE,Banne Buiksloot,12749
+2012,wijken,NF,Nieuwendammerdijk/Buiksloterdijk,1680
+2012,wijken,NG,Elzenhagen,1613
+2012,wijken,NH,Buikslotermeer,10954
+2012,wijken,NJ,Waterlandpleinbuurt,12308
+2012,wijken,NK,Volewijck,9394
+2012,wijken,NL,IJplein/Vogelbuurt,8201
+2012,wijken,NM,Tuindorp Buiksloot,1867
+2012,wijken,NN,Tuindorp Nieuwendam,3418
+2012,wijken,NP,Noordelijke IJ-oevers-Oost,117
+2012,wijken,NQ,Waterland,2150
+2012,wijken,SA,Driemond,1527
+2012,wijken,TA,Amstel III/Bullewijk,178
+2012,wijken,TB,Venserpolder,8403
+2012,wijken,TC,Amsterdamse Poort e.o.,6290
+2012,wijken,TD,H-buurt,7201
+2012,wijken,TE,Ganzenhoef e.o.,7163
+2012,wijken,TF,Geerdinkhof/Kantershof,7014
+2012,wijken,TG,Bijlmermuseum,6143
+2012,wijken,TH,K-buurt,5703
+2012,wijken,TJ,Holendrecht,9875
+2012,wijken,TK,Nellestein,2911
+2012,wijken,TL,Reigersbos,8610
+2012,wijken,TM,Gein,11848
+2013,wijken,AA,Haarlemmerbuurt,9214
+2013,wijken,AB,Jordaan,19122
+2013,wijken,AC,Grachtengordel-West,6395
+2013,wijken,AD,Burgwallen-Nieuwe Zijde,4001
+2013,wijken,AE,Burgwallen-Oude Zijde,4091
+2013,wijken,AF,Nieuwmarkt/Lastage,9324
+2013,wijken,AG,Grachtengordel-Zuid,5316
+2013,wijken,AH,De Weteringschans,7293
+2013,wijken,AJ,Weesperbuurt/Plantage,7958
+2013,wijken,AK,Oostelijke Eilanden/Kadijken,12901
+2013,wijken,BA,Havens-West,272
+2013,wijken,BB,Coenhaven/Minervahaven,33
+2013,wijken,EA,Sloterdijk-West,229
+2013,wijken,EB,Spaarndammerbuurt/Zeeheldenbuurt,10647
+2013,wijken,EC,Houthavens,1706
+2013,wijken,ED,De Kolenkit,8605
+2013,wijken,EE,Landlust,18409
+2013,wijken,EF,Erasmuspark,5792
+2013,wijken,EG,Centrale Markt,2558
+2013,wijken,EH,Staatsliedenbuurt,12504
+2013,wijken,EJ,Frederik Hendrikbuurt,7994
+2013,wijken,EK,Van Galenbuurt,6407
+2013,wijken,EL,Geuzenbuurt,6748
+2013,wijken,EM,Hoofdweg e.o.,10224
+2013,wijken,EN,Chassébuurt,6094
+2013,wijken,EP,Bellamybuurt,5976
+2013,wijken,EQ,Da Costabuurt,4564
+2013,wijken,ER,Westindische Buurt,6443
+2013,wijken,ES,Van Lennepbuurt,6914
+2013,wijken,ET,Overtoomse Sluis,7605
+2013,wijken,EU,Helmersbuurt,7456
+2013,wijken,EV,Vondelparkbuurt,1805
+2013,wijken,FA,Sloterdijk Nieuw-West,96
+2013,wijken,FB,Geuzenveld,16691
+2013,wijken,FC,Slotermeer-West,10242
+2013,wijken,FD,Slotermeer-Noordoost,9408
+2013,wijken,FE,Slotermeer-Zuidoost,6119
+2013,wijken,FF,Lutkemeer/Ookmeer,879
+2013,wijken,FG,De Aker,14289
+2013,wijken,FH,De Punt,5085
+2013,wijken,FJ,Osdorp-Midden,14840
+2013,wijken,FK,Osdorp-Oost,15719
+2013,wijken,FL,Slotervaart-Noord,7871
+2013,wijken,FM,Overtoomse Veld,10310
+2013,wijken,FN,Slotervaart-Zuid,9415
+2013,wijken,FP,Westlandgracht,7074
+2013,wijken,FQ,Sloten/Nieuw-Sloten,13879
+2013,wijken,KA,Hoofddorppleinbuurt,11275
+2013,wijken,KB,Schinkelbuurt,3721
+2013,wijken,KC,Willemspark,5559
+2013,wijken,KD,Museumkwartier,12737
+2013,wijken,KE,Oude Pijp,14546
+2013,wijken,KF,Nieuwe Pijp,11943
+2013,wijken,KG,Zuid Pijp,8148
+2013,wijken,KH,Stadionbuurt,11322
+2013,wijken,KJ,Apollobuurt,8529
+2013,wijken,KK,Scheldebuurt,14326
+2013,wijken,KL,IJselbuurt,5155
+2013,wijken,KM,Rijnbuurt,8998
+2013,wijken,KN,Prinses Irenebuurt e.o.,1211
+2013,wijken,KP,Zuidas,919
+2013,wijken,KQ,Buitenveldert-West,12364
+2013,wijken,KR,Buitenveldert-Oost,7148
+2013,wijken,MA,Oostelijk Havengebied,17972
+2013,wijken,MB,Weesperzijde,4854
+2013,wijken,MC,Oosterparkbuurt,10096
+2013,wijken,MD,Transvaalbuurt,8918
+2013,wijken,ME,Dapperbuurt,8259
+2013,wijken,MF,Indische Buurt-West,12691
+2013,wijken,MG,Indische Buurt-Oost,10075
+2013,wijken,MH,Zeeburgereiland/Bovendiep,837
+2013,wijken,MJ,IJburg-West,13946
+2013,wijken,MK,IJburg-Oost,
+2013,wijken,ML,IJburg-Zuid,6203
+2013,wijken,MM,Frankendael,9563
+2013,wijken,MN,Middenmeer,14168
+2013,wijken,MP,Betondorp,3087
+2013,wijken,MQ,Omval/Overamstel,2178
+2013,wijken,NA,Oostzanerwerf,8734
+2013,wijken,NB,Noordelijke IJ-oevers-West,1239
+2013,wijken,NC,Tuindorp Oostzaan,10518
+2013,wijken,ND,Kadoelen,2816
+2013,wijken,NE,Banne Buiksloot,13359
+2013,wijken,NF,Nieuwendammerdijk/Buiksloterdijk,1683
+2013,wijken,NG,Elzenhagen,1685
+2013,wijken,NH,Buikslotermeer,10804
+2013,wijken,NJ,Waterlandpleinbuurt,12544
+2013,wijken,NK,Volewijck,9366
+2013,wijken,NL,IJplein/Vogelbuurt,8147
+2013,wijken,NM,Tuindorp Buiksloot,1868
+2013,wijken,NN,Tuindorp Nieuwendam,3393
+2013,wijken,NP,Noordelijke IJ-oevers-Oost,107
+2013,wijken,NQ,Waterland,2171
+2013,wijken,SA,Driemond,1520
+2013,wijken,TA,Amstel III/Bullewijk,236
+2013,wijken,TB,Venserpolder,8445
+2013,wijken,TC,Amsterdamse Poort e.o.,7186
+2013,wijken,TD,H-buurt,7244
+2013,wijken,TE,Ganzenhoef e.o.,7053
+2013,wijken,TF,Geerdinkhof/Kantershof,6966
+2013,wijken,TG,Bijlmermuseum,6419
+2013,wijken,TH,K-buurt,5829
+2013,wijken,TJ,Holendrecht,9793
+2013,wijken,TK,Nellestein,2928
+2013,wijken,TL,Reigersbos,8472
+2013,wijken,TM,Gein,11652
+2014,wijken,AA,Haarlemmerbuurt,9320
+2014,wijken,AB,Jordaan,19343
+2014,wijken,AC,Grachtengordel-West,6396
+2014,wijken,AD,Burgwallen-Nieuwe Zijde,4103
+2014,wijken,AE,Burgwallen-Oude Zijde,4194
+2014,wijken,AF,Nieuwmarkt/Lastage,9443
+2014,wijken,AG,Grachtengordel-Zuid,5394
+2014,wijken,AH,De Weteringschans,7299
+2014,wijken,AJ,Weesperbuurt/Plantage,7931
+2014,wijken,AK,Oostelijke Eilanden/Kadijken,12676
+2014,wijken,BA,Havens-West,221
+2014,wijken,BB,Coenhaven/Minervahaven,21
+2014,wijken,EA,Sloterdijk-West,194
+2014,wijken,EB,Spaarndammerbuurt/Zeeheldenbuurt,10697
+2014,wijken,EC,Houthavens,1585
+2014,wijken,ED,De Kolenkit,9293
+2014,wijken,EE,Landlust,18578
+2014,wijken,EF,Erasmuspark,5775
+2014,wijken,EG,Centrale Markt,2537
+2014,wijken,EH,Staatsliedenbuurt,12754
+2014,wijken,EJ,Frederik Hendrikbuurt,8143
+2014,wijken,EK,Van Galenbuurt,6669
+2014,wijken,EL,Geuzenbuurt,6775
+2014,wijken,EM,Hoofdweg e.o.,10382
+2014,wijken,EN,Chassébuurt,6189
+2014,wijken,EP,Bellamybuurt,6129
+2014,wijken,EQ,Da Costabuurt,4659
+2014,wijken,ER,Westindische Buurt,6604
+2014,wijken,ES,Van Lennepbuurt,7077
+2014,wijken,ET,Overtoomse Sluis,7720
+2014,wijken,EU,Helmersbuurt,7474
+2014,wijken,EV,Vondelparkbuurt,1864
+2014,wijken,FA,Sloterdijk Nieuw-West,92
+2014,wijken,FB,Geuzenveld,16705
+2014,wijken,FC,Slotermeer-West,10419
+2014,wijken,FD,Slotermeer-Noordoost,9451
+2014,wijken,FE,Slotermeer-Zuidoost,6174
+2014,wijken,FF,Lutkemeer/Ookmeer,850
+2014,wijken,FG,De Aker,14380
+2014,wijken,FH,De Punt,5252
+2014,wijken,FJ,Osdorp-Midden,15155
+2014,wijken,FK,Osdorp-Oost,15847
+2014,wijken,FL,Slotervaart-Noord,7913
+2014,wijken,FM,Overtoomse Veld,11266
+2014,wijken,FN,Slotervaart-Zuid,9504
+2014,wijken,FP,Westlandgracht,7183
+2014,wijken,FQ,Sloten/Nieuw-Sloten,13898
+2014,wijken,KA,Hoofddorppleinbuurt,11368
+2014,wijken,KB,Schinkelbuurt,3735
+2014,wijken,KC,Willemspark,5615
+2014,wijken,KD,Museumkwartier,12895
+2014,wijken,KE,Oude Pijp,14824
+2014,wijken,KF,Nieuwe Pijp,12099
+2014,wijken,KG,Zuid Pijp,8197
+2014,wijken,KH,Stadionbuurt,11371
+2014,wijken,KJ,Apollobuurt,8647
+2014,wijken,KK,Scheldebuurt,14541
+2014,wijken,KL,IJselbuurt,5221
+2014,wijken,KM,Rijnbuurt,9068
+2014,wijken,KN,Prinses Irenebuurt e.o.,1236
+2014,wijken,KP,Zuidas,1019
+2014,wijken,KQ,Buitenveldert-West,12487
+2014,wijken,KR,Buitenveldert-Oost,7200
+2014,wijken,MA,Oostelijk Havengebied,18509
+2014,wijken,MB,Weesperzijde,4892
+2014,wijken,MC,Oosterparkbuurt,10470
+2014,wijken,MD,Transvaalbuurt,9063
+2014,wijken,ME,Dapperbuurt,8408
+2014,wijken,MF,Indische Buurt-West,12732
+2014,wijken,MG,Indische Buurt-Oost,10044
+2014,wijken,MH,Zeeburgereiland/Bovendiep,834
+2014,wijken,MJ,IJburg-West,14159
+2014,wijken,MK,IJburg-Oost,
+2014,wijken,ML,IJburg-Zuid,6572
+2014,wijken,MM,Frankendael,9858
+2014,wijken,MN,Middenmeer,14920
+2014,wijken,MP,Betondorp,3147
+2014,wijken,MQ,Omval/Overamstel,2549
+2014,wijken,NA,Oostzanerwerf,8727
+2014,wijken,NB,Noordelijke IJ-oevers-West,1340
+2014,wijken,NC,Tuindorp Oostzaan,10698
+2014,wijken,ND,Kadoelen,2835
+2014,wijken,NE,Banne Buiksloot,13557
+2014,wijken,NF,Nieuwendammerdijk/Buiksloterdijk,1693
+2014,wijken,NG,Elzenhagen,1812
+2014,wijken,NH,Buikslotermeer,10947
+2014,wijken,NJ,Waterlandpleinbuurt,12913
+2014,wijken,NK,Volewijck,9589
+2014,wijken,NL,IJplein/Vogelbuurt,8206
+2014,wijken,NM,Tuindorp Buiksloot,1847
+2014,wijken,NN,Tuindorp Nieuwendam,3454
+2014,wijken,NP,Noordelijke IJ-oevers-Oost,116
+2014,wijken,NQ,Waterland,2172
+2014,wijken,SA,Driemond,1536
+2014,wijken,TA,Amstel III/Bullewijk,243
+2014,wijken,TB,Venserpolder,8458
+2014,wijken,TC,Amsterdamse Poort e.o.,7271
+2014,wijken,TD,H-buurt,7214
+2014,wijken,TE,Ganzenhoef e.o.,7105
+2014,wijken,TF,Geerdinkhof/Kantershof,7051
+2014,wijken,TG,Bijlmermuseum,6501
+2014,wijken,TH,K-buurt,5891
+2014,wijken,TJ,Holendrecht,9791
+2014,wijken,TK,Nellestein,2959
+2014,wijken,TL,Reigersbos,8464
+2014,wijken,TM,Gein,11587
+2015,wijken,AA,Haarlemmerbuurt,9294
+2015,wijken,AB,Jordaan,19401
+2015,wijken,AC,Grachtengordel-West,6429
+2015,wijken,AD,Burgwallen-Nieuwe Zijde,4199
+2015,wijken,AE,Burgwallen-Oude Zijde,4262
+2015,wijken,AF,Nieuwmarkt/Lastage,9539
+2015,wijken,AG,Grachtengordel-Zuid,5388
+2015,wijken,AH,De Weteringschans,7357
+2015,wijken,AJ,Weesperbuurt/Plantage,7845
+2015,wijken,AK,Oostelijke Eilanden/Kadijken,12704
+2015,wijken,BA,Havens-West,179
+2015,wijken,BB,Coenhaven/Minervahaven,23
+2015,wijken,EA,Sloterdijk-West,501
+2015,wijken,EB,Spaarndammerbuurt/Zeeheldenbuurt,10763
+2015,wijken,EC,Houthavens,1602
+2015,wijken,ED,De Kolenkit,9220
+2015,wijken,EE,Landlust,18742
+2015,wijken,EF,Erasmuspark,5898
+2015,wijken,EG,Centrale Markt,2534
+2015,wijken,EH,Staatsliedenbuurt,13056
+2015,wijken,EJ,Frederik Hendrikbuurt,8377
+2015,wijken,EK,Van Galenbuurt,6749
+2015,wijken,EL,Geuzenbuurt,6751
+2015,wijken,EM,Hoofdweg e.o.,10440
+2015,wijken,EN,Chassébuurt,6234
+2015,wijken,EP,Bellamybuurt,6208
+2015,wijken,EQ,Da Costabuurt,4661
+2015,wijken,ER,Westindische Buurt,6793
+2015,wijken,ES,Van Lennepbuurt,7131
+2015,wijken,ET,Overtoomse Sluis,7747
+2015,wijken,EU,Helmersbuurt,7527
+2015,wijken,EV,Vondelparkbuurt,1898
+2015,wijken,FA,Sloterdijk Nieuw-West,104
+2015,wijken,FB,Geuzenveld,17370
+2015,wijken,FC,Slotermeer-West,10816
+2015,wijken,FD,Slotermeer-Noordoost,9469
+2015,wijken,FE,Slotermeer-Zuidoost,6199
+2015,wijken,FF,Lutkemeer/Ookmeer,847
+2015,wijken,FG,De Aker,14403
+2015,wijken,FH,De Punt,5494
+2015,wijken,FJ,Osdorp-Midden,15743
+2015,wijken,FK,Osdorp-Oost,15756
+2015,wijken,FL,Slotervaart-Noord,7985
+2015,wijken,FM,Overtoomse Veld,11704
+2015,wijken,FN,Slotervaart-Zuid,9617
+2015,wijken,FP,Westlandgracht,7448
+2015,wijken,FQ,Sloten/Nieuw-Sloten,13846
+2015,wijken,KA,Hoofddorppleinbuurt,11539
+2015,wijken,KB,Schinkelbuurt,3801
+2015,wijken,KC,Willemspark,5698
+2015,wijken,KD,Museumkwartier,12883
+2015,wijken,KE,Oude Pijp,14977
+2015,wijken,KF,Nieuwe Pijp,12247
+2015,wijken,KG,Zuid Pijp,8237
+2015,wijken,KH,Stadionbuurt,11572
+2015,wijken,KJ,Apollobuurt,8644
+2015,wijken,KK,Scheldebuurt,14718
+2015,wijken,KL,IJselbuurt,5211
+2015,wijken,KM,Rijnbuurt,9060
+2015,wijken,KN,Prinses Irenebuurt e.o.,1279
+2015,wijken,KP,Zuidas,1280
+2015,wijken,KQ,Buitenveldert-West,12662
+2015,wijken,KR,Buitenveldert-Oost,7630
+2015,wijken,MA,Oostelijk Havengebied,18358
+2015,wijken,MB,Weesperzijde,4990
+2015,wijken,MC,Oosterparkbuurt,10796
+2015,wijken,MD,Transvaalbuurt,9115
+2015,wijken,ME,Dapperbuurt,8944
+2015,wijken,MF,Indische Buurt-West,12668
+2015,wijken,MG,Indische Buurt-Oost,10156
+2015,wijken,MH,Zeeburgereiland/Bovendiep,989
+2015,wijken,MJ,IJburg-West,14234
+2015,wijken,MK,IJburg-Oost,
+2015,wijken,ML,IJburg-Zuid,6758
+2015,wijken,MM,Frankendael,10370
+2015,wijken,MN,Middenmeer,15214
+2015,wijken,MP,Betondorp,3176
+2015,wijken,MQ,Omval/Overamstel,2922
+2015,wijken,NA,Oostzanerwerf,8739
+2015,wijken,NB,Noordelijke IJ-oevers-West,1524
+2015,wijken,NC,Tuindorp Oostzaan,10876
+2015,wijken,ND,Kadoelen,2843
+2015,wijken,NE,Banne Buiksloot,13840
+2015,wijken,NF,Nieuwendammerdijk/Buiksloterdijk,1679
+2015,wijken,NG,Elzenhagen,2348
+2015,wijken,NH,Buikslotermeer,10819
+2015,wijken,NJ,Waterlandpleinbuurt,13055
+2015,wijken,NK,Volewijck,9679
+2015,wijken,NL,IJplein/Vogelbuurt,8226
+2015,wijken,NM,Tuindorp Buiksloot,1871
+2015,wijken,NN,Tuindorp Nieuwendam,3499
+2015,wijken,NP,Noordelijke IJ-oevers-Oost,142
+2015,wijken,NQ,Waterland,2184
+2015,wijken,SA,Driemond,1532
+2015,wijken,TA,Amstel III/Bullewijk,280
+2015,wijken,TB,Venserpolder,8541
+2015,wijken,TC,Amsterdamse Poort e.o.,7328
+2015,wijken,TD,H-buurt,7302
+2015,wijken,TE,Ganzenhoef e.o.,7081
+2015,wijken,TF,Geerdinkhof/Kantershof,7097
+2015,wijken,TG,Bijlmermuseum,6684
+2015,wijken,TH,K-buurt,5925
+2015,wijken,TJ,Holendrecht,9745
+2015,wijken,TK,Nellestein,2966
+2015,wijken,TL,Reigersbos,8526
+2015,wijken,TM,Gein,11560
+2016,wijken,AA,Haarlemmerbuurt,9314
+2016,wijken,AB,Jordaan,19408
+2016,wijken,AC,Grachtengordel-West,6483
+2016,wijken,AD,Burgwallen-Nieuwe Zijde,3981
+2016,wijken,AE,Burgwallen-Oude Zijde,4290
+2016,wijken,AF,Nieuwmarkt/Lastage,9618
+2016,wijken,AG,Grachtengordel-Zuid,5455
+2016,wijken,AH,De Weteringschans,7352
+2016,wijken,AJ,Weesperbuurt/Plantage,7943
+2016,wijken,AK,Oostelijke Eilanden/Kadijken,12655
+2016,wijken,BA,Havens-West,165
+2016,wijken,BB,Coenhaven/Minervahaven,35
+2016,wijken,EA,Sloterdijk-West,513
+2016,wijken,EB,Spaarndammerbuurt/Zeeheldenbuurt,10890
+2016,wijken,EC,Houthavens,1044
+2016,wijken,ED,De Kolenkit,9577
+2016,wijken,EE,Landlust,19082
+2016,wijken,EF,Erasmuspark,5891
+2016,wijken,EG,Centrale Markt,2501
+2016,wijken,EH,Staatsliedenbuurt,13187
+2016,wijken,EJ,Frederik Hendrikbuurt,8496
+2016,wijken,EK,Van Galenbuurt,6992
+2016,wijken,EL,Geuzenbuurt,6840
+2016,wijken,EM,Hoofdweg e.o.,10481
+2016,wijken,EN,Chassébuurt,6246
+2016,wijken,EP,Bellamybuurt,6358
+2016,wijken,EQ,Da Costabuurt,4688
+2016,wijken,ER,Westindische Buurt,6938
+2016,wijken,ES,Van Lennepbuurt,7078
+2016,wijken,ET,Overtoomse Sluis,7788
+2016,wijken,EU,Helmersbuurt,7506
+2016,wijken,EV,Vondelparkbuurt,1868
+2016,wijken,FA,Sloterdijk Nieuw-West,106
+2016,wijken,FB,Geuzenveld,17870
+2016,wijken,FC,Slotermeer-West,11103
+2016,wijken,FD,Slotermeer-Noordoost,9474
+2016,wijken,FE,Slotermeer-Zuidoost,6187
+2016,wijken,FF,Lutkemeer/Ookmeer,850
+2016,wijken,FG,De Aker,14488
+2016,wijken,FH,De Punt,5897
+2016,wijken,FJ,Osdorp-Midden,15883
+2016,wijken,FK,Osdorp-Oost,15930
+2016,wijken,FL,Slotervaart-Noord,7990
+2016,wijken,FM,Overtoomse Veld,12139
+2016,wijken,FN,Slotervaart-Zuid,9666
+2016,wijken,FP,Westlandgracht,7837
+2016,wijken,FQ,Sloten/Nieuw-Sloten,13977
+2016,wijken,KA,Hoofddorppleinbuurt,11767
+2016,wijken,KB,Schinkelbuurt,3844
+2016,wijken,KC,Willemspark,5647
+2016,wijken,KD,Museumkwartier,12866
+2016,wijken,KE,Oude Pijp,14871
+2016,wijken,KF,Nieuwe Pijp,12406
+2016,wijken,KG,Zuid Pijp,8276
+2016,wijken,KH,Stadionbuurt,11646
+2016,wijken,KJ,Apollobuurt,8764
+2016,wijken,KK,Scheldebuurt,14752
+2016,wijken,KL,IJselbuurt,5360
+2016,wijken,KM,Rijnbuurt,9128
+2016,wijken,KN,Prinses Irenebuurt e.o.,1318
+2016,wijken,KP,Zuidas,2256
+2016,wijken,KQ,Buitenveldert-West,12697
+2016,wijken,KR,Buitenveldert-Oost,7660
+2016,wijken,MA,Oostelijk Havengebied,18495
+2016,wijken,MB,Weesperzijde,5225
+2016,wijken,MC,Oosterparkbuurt,10957
+2016,wijken,MD,Transvaalbuurt,9426
+2016,wijken,ME,Dapperbuurt,9255
+2016,wijken,MF,Indische Buurt-West,12590
+2016,wijken,MG,Indische Buurt-Oost,10379
+2016,wijken,MH,Zeeburgereiland/Bovendiep,1204
+2016,wijken,MJ,IJburg-West,14431
+2016,wijken,MK,IJburg-Oost,
+2016,wijken,ML,IJburg-Zuid,7009
+2016,wijken,MM,Frankendael,11004
+2016,wijken,MN,Middenmeer,15308
+2016,wijken,MP,Betondorp,3215
+2016,wijken,MQ,Omval/Overamstel,3923
+2016,wijken,NA,Oostzanerwerf,8764
+2016,wijken,NB,Noordelijke IJ-oevers-West,1692
+2016,wijken,NC,Tuindorp Oostzaan,11168
+2016,wijken,ND,Kadoelen,3036
+2016,wijken,NE,Banne Buiksloot,14186
+2016,wijken,NF,Nieuwendammerdijk/Buiksloterdijk,1690
+2016,wijken,NG,Elzenhagen,2452
+2016,wijken,NH,Buikslotermeer,10956
+2016,wijken,NJ,Waterlandpleinbuurt,13311
+2016,wijken,NK,Volewijck,9655
+2016,wijken,NL,IJplein/Vogelbuurt,8246
+2016,wijken,NM,Tuindorp Buiksloot,1866
+2016,wijken,NN,Tuindorp Nieuwendam,3520
+2016,wijken,NP,Noordelijke IJ-oevers-Oost,164
+2016,wijken,NQ,Waterland,2211
+2016,wijken,SA,Driemond,1522
+2016,wijken,TA,Amstel III/Bullewijk,438
+2016,wijken,TB,Venserpolder,8645
+2016,wijken,TC,Amsterdamse Poort e.o.,8013
+2016,wijken,TD,H-buurt,7323
+2016,wijken,TE,Ganzenhoef e.o.,7141
+2016,wijken,TF,Geerdinkhof/Kantershof,7068
+2016,wijken,TG,Bijlmermuseum,7098
+2016,wijken,TH,K-buurt,5953
+2016,wijken,TJ,Holendrecht,9792
+2016,wijken,TK,Nellestein,2969
+2016,wijken,TL,Reigersbos,8528
+2016,wijken,TM,Gein,11567
+2017,wijken,AA,Haarlemmerbuurt,9304
+2017,wijken,AB,Jordaan,19316
+2017,wijken,AC,Grachtengordel-West,6371
+2017,wijken,AD,Burgwallen-Nieuwe Zijde,3991
+2017,wijken,AE,Burgwallen-Oude Zijde,4246
+2017,wijken,AF,Nieuwmarkt/Lastage,9649
+2017,wijken,AG,Grachtengordel-Zuid,5407
+2017,wijken,AH,De Weteringschans,7256
+2017,wijken,AJ,Weesperbuurt/Plantage,7894
+2017,wijken,AK,Oostelijke Eilanden/Kadijken,12988
+2017,wijken,BA,Havens-West,160
+2017,wijken,BB,Coenhaven/Minervahaven,32
+2017,wijken,EA,Sloterdijk-West,526
+2017,wijken,EB,Spaarndammerbuurt/Zeeheldenbuurt,10804
+2017,wijken,EC,Houthavens,1065
+2017,wijken,ED,De Kolenkit,9918
+2017,wijken,EE,Landlust,18652
+2017,wijken,EF,Erasmuspark,5765
+2017,wijken,EG,Centrale Markt,2452
+2017,wijken,EH,Staatsliedenbuurt,13268
+2017,wijken,EJ,Frederik Hendrikbuurt,8414
+2017,wijken,EK,Van Galenbuurt,6977
+2017,wijken,EL,Geuzenbuurt,6935
+2017,wijken,EM,Hoofdweg e.o.,10619
+2017,wijken,EN,Chassébuurt,6211
+2017,wijken,EP,Bellamybuurt,6391
+2017,wijken,EQ,Da Costabuurt,4742
+2017,wijken,ER,Westindische Buurt,6944
+2017,wijken,ES,Van Lennepbuurt,6985
+2017,wijken,ET,Overtoomse Sluis,7807
+2017,wijken,EU,Helmersbuurt,7470
+2017,wijken,EV,Vondelparkbuurt,1897
+2017,wijken,FA,Sloterdijk Nieuw-West,149
+2017,wijken,FB,Geuzenveld,18188
+2017,wijken,FC,Slotermeer-West,11163
+2017,wijken,FD,Slotermeer-Noordoost,9410
+2017,wijken,FE,Slotermeer-Zuidoost,6214
+2017,wijken,FF,Lutkemeer/Ookmeer,867
+2017,wijken,FG,De Aker,14445
+2017,wijken,FH,De Punt,5997
+2017,wijken,FJ,Osdorp-Midden,16009
+2017,wijken,FK,Osdorp-Oost,16116
+2017,wijken,FL,Slotervaart-Noord,7897
+2017,wijken,FM,Overtoomse Veld,12328
+2017,wijken,FN,Slotervaart-Zuid,10194
+2017,wijken,FP,Westlandgracht,8706
+2017,wijken,FQ,Sloten/Nieuw-Sloten,13994
+2017,wijken,KA,Hoofddorppleinbuurt,11853
+2017,wijken,KB,Schinkelbuurt,3837
+2017,wijken,KC,Willemspark,5538
+2017,wijken,KD,Museumkwartier,12841
+2017,wijken,KE,Oude Pijp,14711
+2017,wijken,KF,Nieuwe Pijp,12306
+2017,wijken,KG,Zuid Pijp,8254
+2017,wijken,KH,Stadionbuurt,11806
+2017,wijken,KJ,Apollobuurt,8691
+2017,wijken,KK,Scheldebuurt,15088
+2017,wijken,KL,IJselbuurt,5373
+2017,wijken,KM,Rijnbuurt,9183
+2017,wijken,KN,Prinses Irenebuurt e.o.,1313
+2017,wijken,KP,Zuidas,2800
+2017,wijken,KQ,Buitenveldert-West,13074
+2017,wijken,KR,Buitenveldert-Oost,7764
+2017,wijken,MA,Oostelijk Havengebied,18646
+2017,wijken,MB,Weesperzijde,5429
+2017,wijken,MC,Oosterparkbuurt,10906
+2017,wijken,MD,Transvaalbuurt,9413
+2017,wijken,ME,Dapperbuurt,9755
+2017,wijken,MF,Indische Buurt-West,12668
+2017,wijken,MG,Indische Buurt-Oost,10264
+2017,wijken,MH,Zeeburgereiland/Bovendiep,2178
+2017,wijken,MJ,IJburg-West,14531
+2017,wijken,MK,IJburg-Oost,
+2017,wijken,ML,IJburg-Zuid,7666
+2017,wijken,MM,Frankendael,11072
+2017,wijken,MN,Middenmeer,15577
+2017,wijken,MP,Betondorp,3234
+2017,wijken,MQ,Omval/Overamstel,4428
+2017,wijken,NA,Oostzanerwerf,8902
+2017,wijken,NB,Noordelijke IJ-oevers-West,2546
+2017,wijken,NC,Tuindorp Oostzaan,11348
+2017,wijken,ND,Kadoelen,3074
+2017,wijken,NE,Banne Buiksloot,14367
+2017,wijken,NF,Nieuwendammerdijk/Buiksloterdijk,1685
+2017,wijken,NG,Elzenhagen,2555
+2017,wijken,NH,Buikslotermeer,11121
+2017,wijken,NJ,Waterlandpleinbuurt,13275
+2017,wijken,NK,Volewijck,9731
+2017,wijken,NL,IJplein/Vogelbuurt,8289
+2017,wijken,NM,Tuindorp Buiksloot,1925
+2017,wijken,NN,Tuindorp Nieuwendam,3539
+2017,wijken,NP,Noordelijke IJ-oevers-Oost,208
+2017,wijken,NQ,Waterland,2201
+2017,wijken,SA,Driemond,1567
+2017,wijken,SC,Weesp-Noordwest,
+2017,wijken,SD,Weesp Binnenstad/Zuid,
+2017,wijken,TA,Amstel III/Bullewijk,666
+2017,wijken,TB,Venserpolder,8655
+2017,wijken,TC,Amsterdamse Poort e.o.,8163
+2017,wijken,TD,H-buurt,7579
+2017,wijken,TE,Ganzenhoef e.o.,7586
+2017,wijken,TF,Geerdinkhof/Kantershof,7097
+2017,wijken,TG,Bijlmermuseum,7681
+2017,wijken,TH,K-buurt,6127
+2017,wijken,TJ,Holendrecht,9802
+2017,wijken,TK,Nellestein,2948
+2017,wijken,TL,Reigersbos,8506
+2017,wijken,TM,Gein,11477
+2018,wijken,AA,Haarlemmerbuurt,9318
+2018,wijken,AB,Jordaan,19442
+2018,wijken,AC,Grachtengordel-West,6386
+2018,wijken,AD,Burgwallen-Nieuwe Zijde,3934
+2018,wijken,AE,Burgwallen-Oude Zijde,4306
+2018,wijken,AF,Nieuwmarkt/Lastage,9780
+2018,wijken,AG,Grachtengordel-Zuid,5355
+2018,wijken,AH,De Weteringschans,7238
+2018,wijken,AJ,Weesperbuurt/Plantage,7872
+2018,wijken,AK,Oostelijke Eilanden/Kadijken,13220
+2018,wijken,BA,Havens-West,159
+2018,wijken,BB,Coenhaven/Minervahaven,39
+2018,wijken,EA,Sloterdijk-West,504
+2018,wijken,EB,Spaarndammerbuurt/Zeeheldenbuurt,10785
+2018,wijken,EC,Houthavens,1118
+2018,wijken,ED,De Kolenkit,10081
+2018,wijken,EE,Landlust,18571
+2018,wijken,EF,Erasmuspark,5850
+2018,wijken,EG,Centrale Markt,2428
+2018,wijken,EH,Staatsliedenbuurt,13315
+2018,wijken,EJ,Frederik Hendrikbuurt,8441
+2018,wijken,EK,Van Galenbuurt,7158
+2018,wijken,EL,Geuzenbuurt,6903
+2018,wijken,EM,Hoofdweg e.o.,10412
+2018,wijken,EN,Chassébuurt,6243
+2018,wijken,EP,Bellamybuurt,6592
+2018,wijken,EQ,Da Costabuurt,4705
+2018,wijken,ER,Westindische Buurt,6950
+2018,wijken,ES,Van Lennepbuurt,6990
+2018,wijken,ET,Overtoomse Sluis,7891
+2018,wijken,EU,Helmersbuurt,7411
+2018,wijken,EV,Vondelparkbuurt,1862
+2018,wijken,FA,Sloterdijk Nieuw-West,525
+2018,wijken,FB,Geuzenveld,18153
+2018,wijken,FC,Slotermeer-West,11357
+2018,wijken,FD,Slotermeer-Noordoost,9299
+2018,wijken,FE,Slotermeer-Zuidoost,6606
+2018,wijken,FF,Lutkemeer/Ookmeer,868
+2018,wijken,FG,De Aker,14536
+2018,wijken,FH,De Punt,6074
+2018,wijken,FJ,Osdorp-Midden,16062
+2018,wijken,FK,Osdorp-Oost,16308
+2018,wijken,FL,Slotervaart-Noord,7999
+2018,wijken,FM,Overtoomse Veld,13373
+2018,wijken,FN,Slotervaart-Zuid,10556
+2018,wijken,FP,Westlandgracht,10060
+2018,wijken,FQ,Sloten/Nieuw-Sloten,14005
+2018,wijken,KA,Hoofddorppleinbuurt,11836
+2018,wijken,KB,Schinkelbuurt,3826
+2018,wijken,KC,Willemspark,5503
+2018,wijken,KD,Museumkwartier,12628
+2018,wijken,KE,Oude Pijp,14827
+2018,wijken,KF,Nieuwe Pijp,12328
+2018,wijken,KG,Zuid Pijp,8206
+2018,wijken,KH,Stadionbuurt,11798
+2018,wijken,KJ,Apollobuurt,8644
+2018,wijken,KK,Scheldebuurt,15119
+2018,wijken,KL,IJselbuurt,5387
+2018,wijken,KM,Rijnbuurt,9166
+2018,wijken,KN,Prinses Irenebuurt e.o.,1336
+2018,wijken,KP,Zuidas,3703
+2018,wijken,KQ,Buitenveldert-West,13372
+2018,wijken,KR,Buitenveldert-Oost,7869
+2018,wijken,MA,Oostelijk Havengebied,18552
+2018,wijken,MB,Weesperzijde,5536
+2018,wijken,MC,Oosterparkbuurt,10896
+2018,wijken,MD,Transvaalbuurt,9345
+2018,wijken,ME,Dapperbuurt,10069
+2018,wijken,MF,Indische Buurt-West,12657
+2018,wijken,MG,Indische Buurt-Oost,10218
+2018,wijken,MH,Zeeburgereiland/Bovendiep,3141
+2018,wijken,MJ,IJburg-West,14823
+2018,wijken,MK,IJburg-Oost,
+2018,wijken,ML,IJburg-Zuid,8098
+2018,wijken,MM,Frankendael,10807
+2018,wijken,MN,Middenmeer,15455
+2018,wijken,MP,Betondorp,3253
+2018,wijken,MQ,Omval/Overamstel,4604
+2018,wijken,NA,Oostzanerwerf,8893
+2018,wijken,NB,Noordelijke IJ-oevers-West,3594
+2018,wijken,NC,Tuindorp Oostzaan,11531
+2018,wijken,ND,Kadoelen,3118
+2018,wijken,NE,Banne Buiksloot,14309
+2018,wijken,NF,Nieuwendammerdijk/Buiksloterdijk,1695
+2018,wijken,NG,Elzenhagen,2736
+2018,wijken,NH,Buikslotermeer,11173
+2018,wijken,NJ,Waterlandpleinbuurt,13179
+2018,wijken,NK,Volewijck,9760
+2018,wijken,NL,IJplein/Vogelbuurt,8256
+2018,wijken,NM,Tuindorp Buiksloot,1910
+2018,wijken,NN,Tuindorp Nieuwendam,3528
+2018,wijken,NP,Noordelijke IJ-oevers-Oost,316
+2018,wijken,NQ,Waterland,2277
+2018,wijken,SA,Driemond,1589
+2018,wijken,SB,Bloemendalerpolder,
+2018,wijken,SC,Weesp-Noordwest,
+2018,wijken,SD,Weesp Binnenstad/Zuid,
+2018,wijken,SE,Aetsveld/Oostelijke Vechtoever,
+2018,wijken,TA,Amstel III/Bullewijk,714
+2018,wijken,TB,Venserpolder,8650
+2018,wijken,TC,Amsterdamse Poort e.o.,8140
+2018,wijken,TD,H-buurt,7504
+2018,wijken,TE,Ganzenhoef e.o.,7696
+2018,wijken,TF,Geerdinkhof/Kantershof,7096
+2018,wijken,TG,Bijlmermuseum,7774
+2018,wijken,TH,K-buurt,6282
+2018,wijken,TJ,Holendrecht,9768
+2018,wijken,TK,Nellestein,2896
+2018,wijken,TL,Reigersbos,8504
+2018,wijken,TM,Gein,11386
+2019,wijken,AA,Haarlemmerbuurt,9313
+2019,wijken,AB,Jordaan,19433
+2019,wijken,AC,Grachtengordel-West,6374
+2019,wijken,AD,Burgwallen-Nieuwe Zijde,4130
+2019,wijken,AE,Burgwallen-Oude Zijde,4293
+2019,wijken,AF,Nieuwmarkt/Lastage,9676
+2019,wijken,AG,Grachtengordel-Zuid,5383
+2019,wijken,AH,De Weteringschans,7258
+2019,wijken,AJ,Weesperbuurt/Plantage,7744
+2019,wijken,AK,Oostelijke Eilanden/Kadijken,13258
+2019,wijken,BA,Havens-West,137
+2019,wijken,BB,Coenhaven/Minervahaven,40
+2019,wijken,EA,Sloterdijk-West,546
+2019,wijken,EB,Spaarndammerbuurt/Zeeheldenbuurt,10791
+2019,wijken,EC,Houthavens,2394
+2019,wijken,ED,De Kolenkit,10166
+2019,wijken,EE,Landlust,18899
+2019,wijken,EF,Erasmuspark,5887
+2019,wijken,EG,Centrale Markt,2485
+2019,wijken,EH,Staatsliedenbuurt,13162
+2019,wijken,EJ,Frederik Hendrikbuurt,8314
+2019,wijken,EK,Van Galenbuurt,7527
+2019,wijken,EL,Geuzenbuurt,6817
+2019,wijken,EM,Hoofdweg e.o.,10367
+2019,wijken,EN,Chassébuurt,6207
+2019,wijken,EP,Bellamybuurt,6528
+2019,wijken,EQ,Da Costabuurt,4643
+2019,wijken,ER,Westindische Buurt,6924
+2019,wijken,ES,Van Lennepbuurt,7030
+2019,wijken,ET,Overtoomse Sluis,7917
+2019,wijken,EU,Helmersbuurt,7461
+2019,wijken,EV,Vondelparkbuurt,1843
+2019,wijken,FA,Sloterdijk Nieuw-West,864
+2019,wijken,FB,Geuzenveld,18706
+2019,wijken,FC,Slotermeer-West,11358
+2019,wijken,FD,Slotermeer-Noordoost,9355
+2019,wijken,FE,Slotermeer-Zuidoost,6630
+2019,wijken,FF,Lutkemeer/Ookmeer,1129
+2019,wijken,FG,De Aker,14532
+2019,wijken,FH,De Punt,6136
+2019,wijken,FJ,Osdorp-Midden,15765
+2019,wijken,FK,Osdorp-Oost,16298
+2019,wijken,FL,Slotervaart-Noord,8063
+2019,wijken,FM,Overtoomse Veld,13923
+2019,wijken,FN,Slotervaart-Zuid,10648
+2019,wijken,FP,Westlandgracht,10581
+2019,wijken,FQ,Sloten/Nieuw-Sloten,13976
+2019,wijken,KA,Hoofddorppleinbuurt,11817
+2019,wijken,KB,Schinkelbuurt,3934
+2019,wijken,KC,Willemspark,5499
+2019,wijken,KD,Museumkwartier,12728
+2019,wijken,KE,Oude Pijp,14767
+2019,wijken,KF,Nieuwe Pijp,12373
+2019,wijken,KG,Zuid Pijp,8205
+2019,wijken,KH,Stadionbuurt,11827
+2019,wijken,KJ,Apollobuurt,8636
+2019,wijken,KK,Scheldebuurt,15115
+2019,wijken,KL,IJselbuurt,5311
+2019,wijken,KM,Rijnbuurt,9112
+2019,wijken,KN,Prinses Irenebuurt e.o.,1337
+2019,wijken,KP,Zuidas,3853
+2019,wijken,KQ,Buitenveldert-West,13531
+2019,wijken,KR,Buitenveldert-Oost,7921
+2019,wijken,MA,Oostelijk Havengebied,18842
+2019,wijken,MB,Weesperzijde,5855
+2019,wijken,MC,Oosterparkbuurt,10858
+2019,wijken,MD,Transvaalbuurt,9260
+2019,wijken,ME,Dapperbuurt,10189
+2019,wijken,MF,Indische Buurt-West,12626
+2019,wijken,MG,Indische Buurt-Oost,10058
+2019,wijken,MH,Zeeburgereiland/Bovendiep,3653
+2019,wijken,MJ,IJburg-West,15465
+2019,wijken,MK,IJburg-Oost,
+2019,wijken,ML,IJburg-Zuid,8253
+2019,wijken,MM,Frankendael,11311
+2019,wijken,MN,Middenmeer,15867
+2019,wijken,MP,Betondorp,3263
+2019,wijken,MQ,Omval/Overamstel,4800
+2019,wijken,NA,Oostzanerwerf,8899
+2019,wijken,NB,Noordelijke IJ-oevers-West,4057
+2019,wijken,NC,Tuindorp Oostzaan,11713
+2019,wijken,ND,Kadoelen,3291
+2019,wijken,NE,Banne Buiksloot,14417
+2019,wijken,NF,Nieuwendammerdijk/Buiksloterdijk,1694
+2019,wijken,NG,Elzenhagen,2853
+2019,wijken,NH,Buikslotermeer,11129
+2019,wijken,NJ,Waterlandpleinbuurt,13190
+2019,wijken,NK,Volewijck,9646
+2019,wijken,NL,IJplein/Vogelbuurt,8270
+2019,wijken,NM,Tuindorp Buiksloot,1882
+2019,wijken,NN,Tuindorp Nieuwendam,3521
+2019,wijken,NP,Noordelijke IJ-oevers-Oost,326
+2019,wijken,NQ,Waterland,2312
+2019,wijken,SA,Driemond,1645
+2019,wijken,SB,Bloemendalerpolder,
+2019,wijken,SC,Weesp-Noordwest,
+2019,wijken,SD,Weesp Binnenstad/Zuid,
+2019,wijken,SE,Aetsveld/Oostelijke Vechtoever,
+2019,wijken,TA,Amstel III/Bullewijk,715
+2019,wijken,TB,Venserpolder,8700
+2019,wijken,TC,Amsterdamse Poort e.o.,7994
+2019,wijken,TD,H-buurt,7493
+2019,wijken,TE,Ganzenhoef e.o.,7717
+2019,wijken,TF,Geerdinkhof/Kantershof,7124
+2019,wijken,TG,Bijlmermuseum,7861
+2019,wijken,TH,K-buurt,6779
+2019,wijken,TJ,Holendrecht,9734
+2019,wijken,TK,Nellestein,2882
+2019,wijken,TL,Reigersbos,8528
+2019,wijken,TM,Gein,11438
+2020,wijken,AA,Haarlemmerbuurt,9275
+2020,wijken,AB,Jordaan,19399
+2020,wijken,AC,Grachtengordel-West,6440
+2020,wijken,AD,Burgwallen-Nieuwe Zijde,4134
+2020,wijken,AE,Burgwallen-Oude Zijde,4465
+2020,wijken,AF,Nieuwmarkt/Lastage,9703
+2020,wijken,AG,Grachtengordel-Zuid,5436
+2020,wijken,AH,De Weteringschans,7294
+2020,wijken,AJ,Weesperbuurt/Plantage,7480
+2020,wijken,AK,Oostelijke Eilanden/Kadijken,13684
+2020,wijken,BA,Havens-West,76
+2020,wijken,BB,Coenhaven/Minervahaven,30
+2020,wijken,EA,Sloterdijk-West,536
+2020,wijken,EB,Spaarndammerbuurt/Zeeheldenbuurt,10786
+2020,wijken,EC,Houthavens,2950
+2020,wijken,ED,De Kolenkit,10724
+2020,wijken,EE,Landlust,19061
+2020,wijken,EF,Erasmuspark,5872
+2020,wijken,EG,Centrale Markt,2472
+2020,wijken,EH,Staatsliedenbuurt,13098
+2020,wijken,EJ,Frederik Hendrikbuurt,8273
+2020,wijken,EK,Van Galenbuurt,7696
+2020,wijken,EL,Geuzenbuurt,6842
+2020,wijken,EM,Hoofdweg e.o.,10435
+2020,wijken,EN,Chassébuurt,6162
+2020,wijken,EP,Bellamybuurt,6673
+2020,wijken,EQ,Da Costabuurt,4660
+2020,wijken,ER,Westindische Buurt,6959
+2020,wijken,ES,Van Lennepbuurt,7083
+2020,wijken,ET,Overtoomse Sluis,8006
+2020,wijken,EU,Helmersbuurt,7362
+2020,wijken,EV,Vondelparkbuurt,1771
+2020,wijken,FA,Sloterdijk Nieuw-West,842
+2020,wijken,FB,Geuzenveld,18987
+2020,wijken,FC,Slotermeer-West,11205
+2020,wijken,FD,Slotermeer-Noordoost,9480
+2020,wijken,FE,Slotermeer-Zuidoost,6830
+2020,wijken,FF,Lutkemeer/Ookmeer,1218
+2020,wijken,FG,De Aker,14470
+2020,wijken,FH,De Punt,6228
+2020,wijken,FJ,Osdorp-Midden,15712
+2020,wijken,FK,Osdorp-Oost,16676
+2020,wijken,FL,Slotervaart-Noord,8137
+2020,wijken,FM,Overtoomse Veld,14149
+2020,wijken,FN,Slotervaart-Zuid,10811
+2020,wijken,FP,Westlandgracht,11345
+2020,wijken,FQ,Sloten/Nieuw-Sloten,14034
+2020,wijken,KA,Hoofddorppleinbuurt,11860
+2020,wijken,KB,Schinkelbuurt,3958
+2020,wijken,KC,Willemspark,5516
+2020,wijken,KD,Museumkwartier,12619
+2020,wijken,KE,Oude Pijp,14812
+2020,wijken,KF,Nieuwe Pijp,12431
+2020,wijken,KG,Zuid Pijp,8196
+2020,wijken,KH,Stadionbuurt,11925
+2020,wijken,KJ,Apollobuurt,8537
+2020,wijken,KK,Scheldebuurt,14988
+2020,wijken,KL,IJselbuurt,5292
+2020,wijken,KM,Rijnbuurt,9156
+2020,wijken,KN,Prinses Irenebuurt e.o.,1342
+2020,wijken,KP,Zuidas,3947
+2020,wijken,KQ,Buitenveldert-West,13613
+2020,wijken,KR,Buitenveldert-Oost,8099
+2020,wijken,MA,Oostelijk Havengebied,18924
+2020,wijken,MB,Weesperzijde,5894
+2020,wijken,MC,Oosterparkbuurt,10880
+2020,wijken,MD,Transvaalbuurt,9237
+2020,wijken,ME,Dapperbuurt,10224
+2020,wijken,MF,Indische Buurt-West,12533
+2020,wijken,MG,Indische Buurt-Oost,9915
+2020,wijken,MH,Zeeburgereiland/Bovendiep,4704
+2020,wijken,MJ,IJburg-West,15730
+2020,wijken,MK,IJburg-Oost,
+2020,wijken,ML,IJburg-Zuid,8264
+2020,wijken,MM,Frankendael,11637
+2020,wijken,MN,Middenmeer,15790
+2020,wijken,MP,Betondorp,3234
+2020,wijken,MQ,Omval/Overamstel,5083
+2020,wijken,NA,Oostzanerwerf,8883
+2020,wijken,NB,Noordelijke IJ-oevers-West,4759
+2020,wijken,NC,Tuindorp Oostzaan,11958
+2020,wijken,ND,Kadoelen,3488
+2020,wijken,NE,Banne Buiksloot,14781
+2020,wijken,NF,Nieuwendammerdijk/Buiksloterdijk,1659
+2020,wijken,NG,Elzenhagen,3455
+2020,wijken,NH,Buikslotermeer,11154
+2020,wijken,NJ,Waterlandpleinbuurt,13191
+2020,wijken,NK,Volewijck,9561
+2020,wijken,NL,IJplein/Vogelbuurt,8257
+2020,wijken,NM,Tuindorp Buiksloot,1885
+2020,wijken,NN,Tuindorp Nieuwendam,3532
+2020,wijken,NP,Noordelijke IJ-oevers-Oost,297
+2020,wijken,NQ,Waterland,2378
+2020,wijken,SA,Driemond,1659
+2020,wijken,SB,Bloemendalerpolder,
+2020,wijken,SC,Weesp-Noordwest,
+2020,wijken,SD,Weesp Binnenstad/Zuid,
+2020,wijken,SE,Aetsveld/Oostelijke Vechtoever,
+2020,wijken,TA,Amstel III/Bullewijk,742
+2020,wijken,TB,Venserpolder,8665
+2020,wijken,TC,Amsterdamse Poort e.o.,8525
+2020,wijken,TD,H-buurt,7749
+2020,wijken,TE,Ganzenhoef e.o.,7663
+2020,wijken,TF,Geerdinkhof/Kantershof,7132
+2020,wijken,TG,Bijlmermuseum,7911
+2020,wijken,TH,K-buurt,7082
+2020,wijken,TJ,Holendrecht,9794
+2020,wijken,TK,Nellestein,2998
+2020,wijken,TL,Reigersbos,8594
+2020,wijken,TM,Gein,11327
+2021,wijken,AA,Haarlemmerbuurt,9171
+2021,wijken,AB,Jordaan,19403
+2021,wijken,AC,Grachtengordel-West,6366
+2021,wijken,AD,Burgwallen-Nieuwe Zijde,4026
+2021,wijken,AE,Burgwallen-Oude Zijde,4525
+2021,wijken,AF,Nieuwmarkt/Lastage,9629
+2021,wijken,AG,Grachtengordel-Zuid,5382
+2021,wijken,AH,De Weteringschans,7327
+2021,wijken,AJ,Weesperbuurt/Plantage,7538
+2021,wijken,AK,Oostelijke Eilanden/Kadijken,13716
+2021,wijken,BA,Havens-West,50
+2021,wijken,BB,Coenhaven/Minervahaven,95
+2021,wijken,EA,Sloterdijk-West,508
+2021,wijken,EB,Spaarndammerbuurt/Zeeheldenbuurt,10659
+2021,wijken,EC,Houthavens,3689
+2021,wijken,ED,De Kolenkit,11022
+2021,wijken,EE,Landlust,18938
+2021,wijken,EF,Erasmuspark,5839
+2021,wijken,EG,Centrale Markt,2417
+2021,wijken,EH,Staatsliedenbuurt,12903
+2021,wijken,EJ,Frederik Hendrikbuurt,8271
+2021,wijken,EK,Van Galenbuurt,8242
+2021,wijken,EL,Geuzenbuurt,6768
+2021,wijken,EM,Hoofdweg e.o.,10345
+2021,wijken,EN,Chassébuurt,6099
+2021,wijken,EP,Bellamybuurt,6735
+2021,wijken,EQ,Da Costabuurt,4650
+2021,wijken,ER,Westindische Buurt,6837
+2021,wijken,ES,Van Lennepbuurt,6957
+2021,wijken,ET,Overtoomse Sluis,7922
+2021,wijken,EU,Helmersbuurt,7456
+2021,wijken,EV,Vondelparkbuurt,1773
+2021,wijken,FA,Sloterdijk Nieuw-West,854
+2021,wijken,FB,Geuzenveld,18789
+2021,wijken,FC,Slotermeer-West,10916
+2021,wijken,FD,Slotermeer-Noordoost,9212
+2021,wijken,FE,Slotermeer-Zuidoost,6879
+2021,wijken,FF,Lutkemeer/Ookmeer,1189
+2021,wijken,FG,De Aker,14289
+2021,wijken,FH,De Punt,6170
+2021,wijken,FJ,Osdorp-Midden,15380
+2021,wijken,FK,Osdorp-Oost,17148
+2021,wijken,FL,Slotervaart-Noord,8088
+2021,wijken,FM,Overtoomse Veld,14336
+2021,wijken,FN,Slotervaart-Zuid,10730
+2021,wijken,FP,Westlandgracht,11398
+2021,wijken,FQ,Sloten/Nieuw-Sloten,14144
+2021,wijken,KA,Hoofddorppleinbuurt,11778
+2021,wijken,KB,Schinkelbuurt,3983
+2021,wijken,KC,Willemspark,5568
+2021,wijken,KD,Museumkwartier,12537
+2021,wijken,KE,Oude Pijp,14630
+2021,wijken,KF,Nieuwe Pijp,12375
+2021,wijken,KG,Zuid Pijp,8080
+2021,wijken,KH,Stadionbuurt,11863
+2021,wijken,KJ,Apollobuurt,8501
+2021,wijken,KK,Scheldebuurt,14832
+2021,wijken,KL,IJselbuurt,5227
+2021,wijken,KM,Rijnbuurt,9084
+2021,wijken,KN,Prinses Irenebuurt e.o.,1378
+2021,wijken,KP,Zuidas,3931
+2021,wijken,KQ,Buitenveldert-West,13568
+2021,wijken,KR,Buitenveldert-Oost,7966
+2021,wijken,MA,Oostelijk Havengebied,18758
+2021,wijken,MB,Weesperzijde,5927
+2021,wijken,MC,Oosterparkbuurt,10627
+2021,wijken,MD,Transvaalbuurt,9101
+2021,wijken,ME,Dapperbuurt,10043
+2021,wijken,MF,Indische Buurt-West,12519
+2021,wijken,MG,Indische Buurt-Oost,9750
+2021,wijken,MH,Zeeburgereiland/Bovendiep,4988
+2021,wijken,MJ,IJburg-West,15699
+2021,wijken,MK,IJburg-Oost,71
+2021,wijken,ML,IJburg-Zuid,8153
+2021,wijken,MM,Frankendael,11890
+2021,wijken,MN,Middenmeer,15538
+2021,wijken,MP,Betondorp,3139
+2021,wijken,MQ,Omval/Overamstel,5250
+2021,wijken,NA,Oostzanerwerf,8856
+2021,wijken,NB,Noordelijke IJ-oevers-West,5813
+2021,wijken,NC,Tuindorp Oostzaan,12013
+2021,wijken,ND,Kadoelen,3506
+2021,wijken,NE,Banne Buiksloot,14814
+2021,wijken,NF,Nieuwendammerdijk/Buiksloterdijk,1668
+2021,wijken,NG,Elzenhagen,3855
+2021,wijken,NH,Buikslotermeer,11180
+2021,wijken,NJ,Waterlandpleinbuurt,13560
+2021,wijken,NK,Volewijck,9436
+2021,wijken,NL,IJplein/Vogelbuurt,8139
+2021,wijken,NM,Tuindorp Buiksloot,1897
+2021,wijken,NN,Tuindorp Nieuwendam,3487
+2021,wijken,NP,Noordelijke IJ-oevers-Oost,249
+2021,wijken,NQ,Waterland,2414
+2021,wijken,SA,Driemond,1664
+2021,wijken,SB,Bloemendalerpolder,
+2021,wijken,SC,Weesp-Noordwest,
+2021,wijken,SD,Weesp Binnenstad/Zuid,
+2021,wijken,SE,Aetsveld/Oostelijke Vechtoever,
+2021,wijken,TA,Amstel III/Bullewijk,1624
+2021,wijken,TB,Venserpolder,8498
+2021,wijken,TC,Amsterdamse Poort e.o.,8399
+2021,wijken,TD,H-buurt,7666
+2021,wijken,TE,Ganzenhoef e.o.,7647
+2021,wijken,TF,Geerdinkhof/Kantershof,7118
+2021,wijken,TG,Bijlmermuseum,7740
+2021,wijken,TH,K-buurt,7341
+2021,wijken,TJ,Holendrecht,9603
+2021,wijken,TK,Nellestein,3029
+2021,wijken,TL,Reigersbos,8514
+2021,wijken,TM,Gein,11233
+2022,wijken,AA,Haarlemmerbuurt,9169
+2022,wijken,AB,Jordaan,19512
+2022,wijken,AC,Grachtengordel-West,6528
+2022,wijken,AD,Burgwallen-Nieuwe Zijde,4251
+2022,wijken,AE,Burgwallen-Oude Zijde,4549
+2022,wijken,AF,Nieuwmarkt/Lastage,9752
+2022,wijken,AG,Grachtengordel-Zuid,5620
+2022,wijken,AH,De Weteringschans,7478
+2022,wijken,AJ,Weesperbuurt/Plantage,7298
+2022,wijken,AK,Oostelijke Eilanden/Kadijken,13822
+2022,wijken,BA,Havens-West,40
+2022,wijken,BB,Coenhaven/Minervahaven,624
+2022,wijken,EA,Sloterdijk-West,595
+2022,wijken,EB,Spaarndammerbuurt/Zeeheldenbuurt,10825
+2022,wijken,EC,Houthavens,4382
+2022,wijken,ED,De Kolenkit,11442
+2022,wijken,EE,Landlust,18764
+2022,wijken,EF,Erasmuspark,5814
+2022,wijken,EG,Centrale Markt,2385
+2022,wijken,EH,Staatsliedenbuurt,12909
+2022,wijken,EJ,Frederik Hendrikbuurt,8307
+2022,wijken,EK,Van Galenbuurt,8323
+2022,wijken,EL,Geuzenbuurt,6655
+2022,wijken,EM,Hoofdweg e.o.,10305
+2022,wijken,EN,Chassébuurt,6091
+2022,wijken,EP,Bellamybuurt,6636
+2022,wijken,EQ,Da Costabuurt,4723
+2022,wijken,ER,Westindische Buurt,6740
+2022,wijken,ES,Van Lennepbuurt,6903
+2022,wijken,ET,Overtoomse Sluis,7826
+2022,wijken,EU,Helmersbuurt,7487
+2022,wijken,EV,Vondelparkbuurt,1796
+2022,wijken,FA,Sloterdijk Nieuw-West,1095
+2022,wijken,FB,Geuzenveld,18938
+2022,wijken,FC,Slotermeer-West,10631
+2022,wijken,FD,Slotermeer-Noordoost,9242
+2022,wijken,FE,Slotermeer-Zuidoost,6791
+2022,wijken,FF,Lutkemeer/Ookmeer,1181
+2022,wijken,FG,De Aker,14312
+2022,wijken,FH,De Punt,6190
+2022,wijken,FJ,Osdorp-Midden,15509
+2022,wijken,FK,Osdorp-Oost,17418
+2022,wijken,FL,Slotervaart-Noord,7912
+2022,wijken,FM,Overtoomse Veld,14199
+2022,wijken,FN,Slotervaart-Zuid,10828
+2022,wijken,FP,Westlandgracht,12472
+2022,wijken,FQ,Sloten/Nieuw-Sloten,14670
+2022,wijken,KA,Hoofddorppleinbuurt,11845
+2022,wijken,KB,Schinkelbuurt,3982
+2022,wijken,KC,Willemspark,5558
+2022,wijken,KD,Museumkwartier,12625
+2022,wijken,KE,Oude Pijp,14642
+2022,wijken,KF,Nieuwe Pijp,12447
+2022,wijken,KG,Zuid Pijp,7908
+2022,wijken,KH,Stadionbuurt,11778
+2022,wijken,KJ,Apollobuurt,8612
+2022,wijken,KK,Scheldebuurt,14909
+2022,wijken,KL,IJselbuurt,5297
+2022,wijken,KM,Rijnbuurt,9126
+2022,wijken,KN,Prinses Irenebuurt e.o.,1397
+2022,wijken,KP,Zuidas,4280
+2022,wijken,KQ,Buitenveldert-West,13733
+2022,wijken,KR,Buitenveldert-Oost,8062
+2022,wijken,MA,Oostelijk Havengebied,19760
+2022,wijken,MB,Weesperzijde,5923
+2022,wijken,MC,Oosterparkbuurt,10626
+2022,wijken,MD,Transvaalbuurt,9055
+2022,wijken,ME,Dapperbuurt,9962
+2022,wijken,MF,Indische Buurt-West,12299
+2022,wijken,MG,Indische Buurt-Oost,9691
+2022,wijken,MH,Zeeburgereiland/Bovendiep,5326
+2022,wijken,MJ,IJburg-West,15776
+2022,wijken,MK,IJburg-Oost,226
+2022,wijken,ML,IJburg-Zuid,8146
+2022,wijken,MM,Frankendael,12258
+2022,wijken,MN,Middenmeer,15465
+2022,wijken,MP,Betondorp,3075
+2022,wijken,MQ,Omval/Overamstel,5418
+2022,wijken,NA,Oostzanerwerf,8832
+2022,wijken,NB,Noordelijke IJ-oevers-West,7190
+2022,wijken,NC,Tuindorp Oostzaan,11998
+2022,wijken,ND,Kadoelen,3546
+2022,wijken,NE,Banne Buiksloot,14720
+2022,wijken,NF,Nieuwendammerdijk/Buiksloterdijk,1691
+2022,wijken,NG,Elzenhagen,4271
+2022,wijken,NH,Buikslotermeer,11781
+2022,wijken,NJ,Waterlandpleinbuurt,13742
+2022,wijken,NK,Volewijck,9278
+2022,wijken,NL,IJplein/Vogelbuurt,8046
+2022,wijken,NM,Tuindorp Buiksloot,1898
+2022,wijken,NN,Tuindorp Nieuwendam,3473
+2022,wijken,NP,Noordelijke IJ-oevers-Oost,302
+2022,wijken,NQ,Waterland,2396
+2022,wijken,SA,Driemond,1680
+2022,wijken,SB,Bloemendalerpolder,
+2022,wijken,SC,Weesp-Noordwest,
+2022,wijken,SD,Weesp Binnenstad/Zuid,
+2022,wijken,SE,Aetsveld/Oostelijke Vechtoever,
+2022,wijken,TA,Amstel III/Bullewijk,2596
+2022,wijken,TB,Venserpolder,8512
+2022,wijken,TC,Amsterdamse Poort e.o.,8276
+2022,wijken,TD,H-buurt,7634
+2022,wijken,TE,Ganzenhoef e.o.,7652
+2022,wijken,TF,Geerdinkhof/Kantershof,7117
+2022,wijken,TG,Bijlmermuseum,7722
+2022,wijken,TH,K-buurt,7386
+2022,wijken,TJ,Holendrecht,9471
+2022,wijken,TK,Nellestein,2914
+2022,wijken,TL,Reigersbos,8455
+2022,wijken,TM,Gein,11208
+2023,wijken,AA,Haarlemmerbuurt,9136
+2023,wijken,AB,Jordaan,19551
+2023,wijken,AC,Grachtengordel-West,6585
+2023,wijken,AD,Burgwallen-Nieuwe Zijde,4338
+2023,wijken,AE,Burgwallen-Oude Zijde,4569
+2023,wijken,AF,Nieuwmarkt/Lastage,9913
+2023,wijken,AG,Grachtengordel-Zuid,5865
+2023,wijken,AH,De Weteringschans,7554
+2023,wijken,AJ,Weesperbuurt/Plantage,7834
+2023,wijken,AK,Oostelijke Eilanden/Kadijken,14675
+2023,wijken,BA,Havens-West,35
+2023,wijken,BB,Coenhaven/Minervahaven,974
+2023,wijken,EA,Sloterdijk-West,660
+2023,wijken,EB,Spaarndammerbuurt/Zeeheldenbuurt,10818
+2023,wijken,EC,Houthavens,4661
+2023,wijken,ED,De Kolenkit,11771
+2023,wijken,EE,Landlust,18646
+2023,wijken,EF,Erasmuspark,5745
+2023,wijken,EG,Centrale Markt,2339
+2023,wijken,EH,Staatsliedenbuurt,12970
+2023,wijken,EJ,Frederik Hendrikbuurt,8198
+2023,wijken,EK,Van Galenbuurt,7917
+2023,wijken,EL,Geuzenbuurt,6625
+2023,wijken,EM,Hoofdweg e.o.,10148
+2023,wijken,EN,Chassébuurt,6061
+2023,wijken,EP,Bellamybuurt,6375
+2023,wijken,EQ,Da Costabuurt,4742
+2023,wijken,ER,Westindische Buurt,6691
+2023,wijken,ES,Van Lennepbuurt,6895
+2023,wijken,ET,Overtoomse Sluis,7943
+2023,wijken,EU,Helmersbuurt,7495
+2023,wijken,EV,Vondelparkbuurt,1869
+2023,wijken,FA,Sloterdijk Nieuw-West,1185
+2023,wijken,FB,Geuzenveld,18959
+2023,wijken,FC,Slotermeer-West,10703
+2023,wijken,FD,Slotermeer-Noordoost,9208
+2023,wijken,FE,Slotermeer-Zuidoost,6758
+2023,wijken,FF,Lutkemeer/Ookmeer,1252
+2023,wijken,FG,De Aker,14436
+2023,wijken,FH,De Punt,6334
+2023,wijken,FJ,Osdorp-Midden,15486
+2023,wijken,FK,Osdorp-Oost,17650
+2023,wijken,FL,Slotervaart-Noord,7805
+2023,wijken,FM,Overtoomse Veld,14674
+2023,wijken,FN,Slotervaart-Zuid,11088
+2023,wijken,FP,Westlandgracht,13194
+2023,wijken,FQ,Sloten/Nieuw-Sloten,14716
+2023,wijken,KA,Hoofddorppleinbuurt,11763
+2023,wijken,KB,Schinkelbuurt,3932
+2023,wijken,KC,Willemspark,5561
+2023,wijken,KD,Museumkwartier,12644
+2023,wijken,KE,Oude Pijp,14879
+2023,wijken,KF,Nieuwe Pijp,12571
+2023,wijken,KG,Zuid Pijp,7917
+2023,wijken,KH,Stadionbuurt,11768
+2023,wijken,KJ,Apollobuurt,8825
+2023,wijken,KK,Scheldebuurt,15002
+2023,wijken,KL,IJselbuurt,5227
+2023,wijken,KM,Rijnbuurt,8991
+2023,wijken,KN,Prinses Irenebuurt e.o.,1401
+2023,wijken,KP,Zuidas,5218
+2023,wijken,KQ,Buitenveldert-West,14040
+2023,wijken,KR,Buitenveldert-Oost,8305
+2023,wijken,MA,Oostelijk Havengebied,20575
+2023,wijken,MB,Weesperzijde,5892
+2023,wijken,MC,Oosterparkbuurt,10693
+2023,wijken,MD,Transvaalbuurt,8878
+2023,wijken,ME,Dapperbuurt,9996
+2023,wijken,MF,Indische Buurt-West,12271
+2023,wijken,MG,Indische Buurt-Oost,9810
+2023,wijken,MH,Zeeburgereiland/Bovendiep,5679
+2023,wijken,MJ,IJburg-West,16306
+2023,wijken,MK,IJburg-Oost,622
+2023,wijken,ML,IJburg-Zuid,8206
+2023,wijken,MM,Frankendael,12580
+2023,wijken,MN,Middenmeer,15708
+2023,wijken,MP,Betondorp,3082
+2023,wijken,MQ,Omval/Overamstel,5554
+2023,wijken,NA,Oostzanerwerf,8871
+2023,wijken,NB,Noordelijke IJ-oevers-West,9406
+2023,wijken,NC,Tuindorp Oostzaan,12048
+2023,wijken,ND,Kadoelen,3565
+2023,wijken,NE,Banne Buiksloot,14806
+2023,wijken,NF,Nieuwendammerdijk/Buiksloterdijk,1703
+2023,wijken,NG,Elzenhagen,5261
+2023,wijken,NH,Buikslotermeer,11794
+2023,wijken,NJ,Waterlandpleinbuurt,13941
+2023,wijken,NK,Volewijck,9364
+2023,wijken,NL,IJplein/Vogelbuurt,7943
+2023,wijken,NM,Tuindorp Buiksloot,1909
+2023,wijken,NN,Tuindorp Nieuwendam,3468
+2023,wijken,NP,Noordelijke IJ-oevers-Oost,399
+2023,wijken,NQ,Waterland,2410
+2023,wijken,SA,Driemond,1689
+2023,wijken,SB,Bloemendalerpolder,4168
+2023,wijken,SC,Weesp-Noordwest,8031
+2023,wijken,SD,Weesp Binnenstad/Zuid,5657
+2023,wijken,SE,Aetsveld/Oostelijke Vechtoever,4402
+2023,wijken,TA,Amstel III/Bullewijk,3546
+2023,wijken,TB,Venserpolder,8512
+2023,wijken,TC,Amsterdamse Poort e.o.,8272
+2023,wijken,TD,H-buurt,7594
+2023,wijken,TE,Ganzenhoef e.o.,7716
+2023,wijken,TF,Geerdinkhof/Kantershof,7157
+2023,wijken,TG,Bijlmermuseum,7793
+2023,wijken,TH,K-buurt,7436
+2023,wijken,TJ,Holendrecht,9506
+2023,wijken,TK,Nellestein,3118
+2023,wijken,TL,Reigersbos,8546
+2023,wijken,TM,Gein,11221
